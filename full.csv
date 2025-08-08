@@ -1,0 +1,1334 @@
+Solute;Solvent;SoluteSMILES;SolventSMILES;DeltaGsolv;cannon_smiles
+solute;solvent;OCc1ccccc1O;O;-10.22;OCc1ccccc1O
+solute;solvent;CN(C)C(=O)Nc1ccc(Cl)c(Cl)c1;O;-10.89;CN(C)C(=O)Nc1ccc(Cl)c(Cl)c1
+solute;solvent;CC1CCC(C)O1;O;-2.92;CC1CCC(C)O1
+solute;solvent;CCC=C(C)C;O;1.47;CCC=C(C)C
+solute;solvent;CC=CC=CC;O;0.61;CC=CC=CC
+solute;solvent;NCCc1ccc(O)cc1;O;-11.85;NCCc1ccc(O)cc1
+solute;solvent;O=[N+]([O-])c1ccc(Cl)cc1;O;-5.05;O=[N+]([O-])c1ccc(Cl)cc1
+solute;solvent;CCC(C)(O)CC;O;-4.2;CCC(C)(O)CC
+solute;solvent;c1ccc2nc3ccccc3cc2c1;O;-6.75;c1ccc2nc3ccccc3cc2c1
+solute;solvent;O=Cc1ccc(C(=O)O)cc1;O;-8.94;O=Cc1ccc(C(=O)O)cc1
+solute;solvent;CC1=CC=C(C(C)C)CC1;O;0.12;CC1=CC=C(C(C)C)CC1
+solute;solvent;CCNc1nc(NCC)nc(SC)n1;O;-10.09;CCNc1nc(NCC)nc(SC)n1
+solute;solvent;Cc1ccccc1C(=O)O;O;-5.87;Cc1ccccc1C(=O)O
+solute;solvent;CCCCCNCc1ccc(C)cc1;O;-5.21;CCCCCNCc1ccc(C)cc1
+solute;solvent;CC(=O)C(C)=O;O;-4.3;CC(=O)C(C)=O
+solute;solvent;O=C(O)CCCC(=O)O;O;-12.71;O=C(O)CCCC(=O)O
+solute;solvent;CCNCc1ccc(C)cc1;O;-6.02;CCNCc1ccc(C)cc1
+solute;solvent;c1cc2cccc3c4cccc5cccc(c(c1)c23)c54;O;-7.83;c1cc2cccc3c4cccc5cccc(c(c1)c23)c54
+solute;solvent;CCCCOC(=O)c1ccccc1O;O;-3.51;CCCCOC(=O)c1ccccc1O
+solute;solvent;CC(=O)CC(=O)C(F)(F)F;O;-4.91;CC(=O)CC(=O)C(F)(F)F
+solute;solvent;FC(Cl)C(F)(F)F;O;0.79;FC(Cl)C(F)(F)F
+solute;solvent;CCCCCCCCCC(=O)c1c(C)[nH]n(-c2ccccc2)c1=O;O;-8.46;CCCCCCCCCC(=O)c1c(C)[nH]n(-c2ccccc2)c1=O
+solute;solvent;BrC1CCCCC1;O;-0.57;BrC1CCCCC1
+solute;solvent;CCCC=CC=O;O;-3.68;CCCC=CC=O
+solute;solvent;CCCCCCCCCCCCCC(=O)OC;O;-1.14;CCCCCCCCCCCCCC(=O)OC
+solute;solvent;Nc1ccccc1-c1ccccc1;O;-7.27;Nc1ccccc1-c1ccccc1
+solute;solvent;CCC1(c2ccccc2)C(=O)NC(=O)NC1=O;O;-15.44;CCC1(c2ccccc2)C(=O)NC(=O)NC1=O
+solute;solvent;CC1=CCC2(C(C)C)CC12;O;0.5;CC1=CCC2(C(C)C)CC12
+solute;solvent;Cc1ccccc1C(=O)N(O)c1ccccc1C;O;-11.21;Cc1ccccc1C(=O)N(O)c1ccccc1C
+solute;solvent;CC1=CCCC(C)=CCC(C)(C)C=CC1;O;0.05;CC1=CCCC(C)=CCC(C)(C)C=CC1
+solute;solvent;C#CCCCCCCC;O;0.74;C#CCCCCCCC
+solute;solvent;CC(=O)CCCCC(C)C;O;-2.84;CC(=O)CCCCC(C)C
+solute;solvent;Clc1ccc(C(c2ccc(Cl)cc2)C(Cl)(Cl)Cl)cc1;O;-4.61;Clc1ccc(C(c2ccc(Cl)cc2)C(Cl)(Cl)Cl)cc1
+solute;solvent;CC1(C)C2CC3C(C2)C31C;O;0.87;CC1(C)C2CC3C(C2)C31C
+solute;solvent;CC(C)(C)OC(=O)c1ccccc1C(=O)OC(C)(C)C;O;-7.09;CC(C)(C)OC(=O)c1ccccc1C(=O)OC(C)(C)C
+solute;solvent;Oc1c(Cl)cc(Cl)cc1Cl;O;-4.95;Oc1c(Cl)cc(Cl)cc1Cl
+solute;solvent;Nc1cc([N+](=O)[O-])cc([N+](=O)[O-])c1O;O;-11.39;Nc1cc([N+](=O)[O-])cc([N+](=O)[O-])c1O
+solute;solvent;Cc1nnc(NS(=O)(=O)c2ccc(N)cc2)s1;O;-19.28;Cc1nnc(NS(=O)(=O)c2ccc(N)cc2)s1
+solute;solvent;CCOC(=O)c1ccccc1O;O;-3.82;CCOC(=O)c1ccccc1O
+solute;solvent;O=C(c1ccccc1)N(O)c1ccccc1;O;-11.34;O=C(c1ccccc1)N(O)c1ccccc1
+solute;solvent;CCC(C)CCCC(C)CCCC(C)CCCC(C)C;O;4.83;CCC(C)CCCC(C)CCCC(C)CCCC(C)C
+solute;solvent;Oc1ccc(O)cc1;O;-12.08;Oc1ccc(O)cc1
+solute;solvent;C=C(C)C1CCC2(C)CCCC(=C)C2C1;O;-0.05;C=C(C)C1CCC2(C)CCCC(=C)C2C1
+solute;solvent;CCCCCCOC(=O)c1ccccc1C(=O)OCCCCCC;O;-6.78;CCCCCCOC(=O)c1ccccc1C(=O)OCCCCCC
+solute;solvent;CCOC(C)(C)C;O;-1.61;CCOC(C)(C)C
+solute;solvent;II;O;-2.54;II
+solute;solvent;FC(F)(Cl)C(F)(F)Cl;O;2.25;FC(F)(Cl)C(F)(F)Cl
+solute;solvent;CCCCCN(C)N=O;O;-5.05;CCCCCN(C)N=O
+solute;solvent;CSc1nc(N=[N+]=[N-])nc(NC(C)C)n1;O;-8.19;CSc1nc(N=[N+]=[N-])nc(NC(C)C)n1
+solute;solvent;CC(=O)OC1(C(C)C)CC=C(C)CC1;O;-3.25;CC(=O)OC1(C(C)C)CC=C(C)CC1
+solute;solvent;Clc1ccc(-c2ccccc2Cl)cc1;O;-2.58;Clc1ccc(-c2ccccc2Cl)cc1
+solute;solvent;O=[O+][O-];O;0.82;O=[O+][O-]
+solute;solvent;OCC1OC(O)C(O)C(O)C1O;O;-25.47;OCC1OC(O)C(O)C(O)C1O
+solute;solvent;CC(C)=CCCC1(C)C2CC3C(C2)C31C;O;0.55;CC(C)=CCCC1(C)C2CC3C(C2)C31C
+solute;solvent;Oc1c(I)cc(I)cc1I;O;-7.16;Oc1c(I)cc(I)cc1I
+solute;solvent;CC(C)OC(=O)c1ccccc1C(=O)OC(C)C;O;-7.42;CC(C)OC(=O)c1ccccc1C(=O)OC(C)C
+solute;solvent;C=C1C2CCC(C2)C1(C)CCC=C(C)C;O;0.35;C=C1C2CCC(C2)C1(C)CCC=C(C)C
+solute;solvent;O=C(O)CCCCCCc1ccccc1;O;-8.72;O=C(O)CCCCCCc1ccccc1
+solute;solvent;CC(C)=CC(C)(C)C;O;1.84;CC(C)=CC(C)(C)C
+solute;solvent;O=C(Oc1ccccc1)c1ccccc1C(=O)Oc1ccccc1;O;-11.6;O=C(Oc1ccccc1)c1ccccc1C(=O)Oc1ccccc1
+solute;solvent;CCCCCCCCCCOC(=O)c1ccccc1C(=O)OCCCCC;O;-6.49;CCCCCCCCCCOC(=O)c1ccccc1C(=O)OCCCCC
+solute;solvent;Oc1c(Cl)c(Cl)c(Cl)c(Cl)c1Cl;O;-4.99;Oc1c(Cl)c(Cl)c(Cl)c(Cl)c1Cl
+solute;solvent;CCCOC(=O)c1ccccc1O;O;-3.66;CCCOC(=O)c1ccccc1O
+solute;solvent;CC(C)=CCCC(C)CCCC(C)CCCC(C)C;O;3.72;CC(C)=CCCC(C)CCCC(C)CCCC(C)C
+solute;solvent;COc1cc(NS(=O)(=O)c2ccc(N)cc2)nc(OC)n1;O;-18.91;COc1cc(NS(=O)(=O)c2ccc(N)cc2)nc(OC)n1
+solute;solvent;C=C1C=CC(C(C)C)CC1;O;0.26;C=C1C=CC(C(C)C)CC1
+solute;solvent;CC1(C)C2=CCCC(C)(C)C23CCC1C3;O;0.71;CC1(C)C2=CCCC(C)(C)C23CCC1C3
+solute;solvent;CC1=CCC2CC3C(C)CCC13C2(C)C;O;0.78;CC1=CCC2CC3C(C)CCC13C2(C)C
+solute;solvent;CC(C(=O)O)c1ccc(C(=O)c2cccs2)cc1;O;-13.87;CC(C(=O)O)c1ccc(C(=O)c2cccs2)cc1
+solute;solvent;Brc1cc(Br)c(Br)cc1Br;O;-2.54;Brc1cc(Br)c(Br)cc1Br
+solute;solvent;c1ccc2cc3c(ccc4ccccc43)cc2c1;O;-6.26;c1ccc2cc3c(ccc4ccccc43)cc2c1
+solute;solvent;CCCCCCCCCCCCCCCCCCCCCCCCC;O;5.39;CCCCCCCCCCCCCCCCCCCCCCCCC
+solute;solvent;CCc1ccc2ccccc2c1;O;-2.26;CCc1ccc2ccccc2c1
+solute;solvent;CC1=C2CC3CCC(C)C2(CC1)C3(C)C;O;0.78;CC1=C2CC3CCC(C)C2(CC1)C3(C)C
+solute;solvent;CCCC(=O)CC(=O)CC;O;-4.35;CCCC(=O)CC(=O)CC
+solute;solvent;COc1ccc(NS(=O)(=O)c2ccc(N)cc2)nn1;O;-21.12;COc1ccc(NS(=O)(=O)c2ccc(N)cc2)nn1
+solute;solvent;C=C(C)CCCC;O;1.66;C=C(C)CCCC
+solute;solvent;COCCOC(=O)c1ccccc1C(=O)OCCOC;O;-13.48;COCCOC(=O)c1ccccc1C(=O)OCCOC
+solute;solvent;Cc1ccc2ccccc2c1;O;-2.18;Cc1ccc2ccccc2c1
+solute;solvent;Cc1ccc(N(O)C(=O)COc2ccccc2)cc1;O;-12.77;Cc1ccc(N(O)C(=O)COc2ccccc2)cc1
+solute;solvent;c1ccoc1;O;-0.9;c1ccoc1
+solute;solvent;CCCCCCCCCCCCCCCCCCO;O;-2.43;CCCCCCCCCCCCCCCCCCO
+solute;solvent;CC(C)C(C)c1ccc(CC(=O)O)cc1;O;-7.99;CC(C)C(C)c1ccc(CC(=O)O)cc1
+solute;solvent;CC(C)C1CCC2(C)C3CC4C(C13)C42C;O;1.13;CC(C)C1CCC2(C)C3CC4C(C13)C42C
+solute;solvent;CC1CCC2=C1CC1CCC2(C)C1(C)C;O;0.78;CC1CCC2=C1CC1CCC2(C)C1(C)C
+solute;solvent;CC(=O)Nc1ccccc1;O;-9.79;CC(=O)Nc1ccccc1
+solute;solvent;CCNc1nc(NCC)nc(OC)n1;O;-10.64;CCNc1nc(NCC)nc(OC)n1
+solute;solvent;Cc1ccc(C(C)C)c(O)c1;O;-5.81;Cc1ccc(C(C)C)c(O)c1
+solute;solvent;CC(C)CCCCCCOC(=O)c1ccccc1C(=O)OCCCCCCC(C)C;O;-6.14;CC(C)CCCCCCOC(=O)c1ccccc1C(=O)OCCCCCCC(C)C
+solute;solvent;C1=CCCCCC1;O;0.7;C1=CCCCCC1
+solute;solvent;CC(=O)OC1C2(C)CCC(C2)C1(C)C;O;-2.69;CC(=O)OC1C2(C)CCC(C2)C1(C)C
+solute;solvent;O=C(O)Cc1ccc(C(=O)O)cc1;O;-16.47;O=C(O)Cc1ccc(C(=O)O)cc1
+solute;solvent;C=C(C)C(=O)OC;O;-2.53;C=C(C)C(=O)OC
+solute;solvent;CCCCNCc1ccc(C)cc1;O;-5.47;CCCCNCc1ccc(C)cc1
+solute;solvent;S=C=S;O;0.16;S=C=S
+solute;solvent;CCC1CCCCC1;O;2.14;CCC1CCCCC1
+solute;solvent;C1COCCOCCOCCOCCOC1;O;-12.52;C1COCCOCCOCCOCCOC1
+solute;solvent;CCCCC(C)(C)C;O;3.02;CCCCC(C)(C)C
+solute;solvent;CC(C)C1=CC2=CCC3C(C)(C)CCCC3(C)C2CC1;O;-0.08;CC(C)C1=CC2=CCC3C(C)(C)CCCC3(C)C2CC1
+solute;solvent;CCCCCCCCCCOC(=O)c1ccccc1C(=O)OCCCCCCCCCC;O;-6.22;CCCCCCCCCCOC(=O)c1ccccc1C(=O)OCCCCCCCCCC
+solute;solvent;O=C(O)c1cccnc1Nc1cccc(C(F)(F)F)c1;O;-12.84;O=C(O)c1cccnc1Nc1cccc(C(F)(F)F)c1
+solute;solvent;O=C(c1ccccc1[N+](=O)[O-])N(O)c1ccccc1;O;-14.49;O=C(c1ccccc1[N+](=O)[O-])N(O)c1ccccc1
+solute;solvent;COCc1ccc(C(=O)O)cc1;O;-9.89;COCc1ccc(C(=O)O)cc1
+solute;solvent;CCCCCCCCCCCCCCCC(=O)OCC;O;-7.23;CCCCCCCCCCCCCCCC(=O)OCC
+solute;solvent;NC(=O)c1ccccc1O;O;-10.39;NC(=O)c1ccccc1O
+solute;solvent;CC(C)(c1ccc(O)cc1)c1ccc(O)cc1;O;-14.39;CC(C)(c1ccc(O)cc1)c1ccc(O)cc1
+solute;solvent;C=C1CCC2CC3C(C)CCC13C2(C)C;O;0.83;C=C1CCC2CC3C(C)CCC13C2(C)C
+solute;solvent;C=CC(C)=CCC=C(C)C;O;-0.5;C=CC(C)=CCC=C(C)C
+solute;solvent;C=C(C)C1CCC(C)C12CC=C(C)CC2;O;0.25;C=C(C)C1CCC(C)C12CC=C(C)CC2
+solute;solvent;O=C(O)c1ccc(Cl)c([N+](=O)[O-])c1;O;-9.84;O=C(O)c1ccc(Cl)c([N+](=O)[O-])c1
+solute;solvent;COc1ccc(C=O)cc1O;O;-9.04;COc1ccc(C=O)cc1O
+solute;solvent;CC(=O)NS(=O)(=O)c1ccc(N)cc1;O;-18.35;CC(=O)NS(=O)(=O)c1ccc(N)cc1
+solute;solvent;O=C(O)c1ccc(CCl)cc1;O;-9.22;O=C(O)c1ccc(CCl)cc1
+solute;solvent;CCCCSP(=O)(O)SCCCC;O;-8.03;CCCCSP(=O)(O)SCCCC
+solute;solvent;Clc1cc(-c2cc(Cl)c(Cl)c(Cl)c2)cc(Cl)c1Cl;O;-4.11;Clc1cc(-c2cc(Cl)c(Cl)c(Cl)c2)cc(Cl)c1Cl
+solute;solvent;CC(C)N(N=O)C(C)C;O;-5.16;CC(C)N(N=O)C(C)C
+solute;solvent;Clc1ccc(-c2ccc(Cl)c(Cl)c2)c(Cl)c1;O;-3.15;Clc1ccc(-c2ccc(Cl)c(Cl)c2)c(Cl)c1
+solute;solvent;CC(C(=O)O)c1ccc2c(c1)[nH]c1ccc(Cl)cc12;O;-15.05;CC(C(=O)O)c1ccc2c(c1)[nH]c1ccc(Cl)cc12
+solute;solvent;CCCCCCCOC(=O)c1ccccc1C(=O)OCCCCCC;O;-6.67;CCCCCCCOC(=O)c1ccccc1C(=O)OCCCCCC
+solute;solvent;Cc1ccccc1N(O)C(=O)c1ccc(Cl)cc1;O;-10.78;Cc1ccccc1N(O)C(=O)c1ccc(Cl)cc1
+solute;solvent;CCCCCCCOC(=O)c1ccccc1C(=O)OCCCCCCC;O;-6.68;CCCCCCCOC(=O)c1ccccc1C(=O)OCCCCCCC
+solute;solvent;CC1CCCC(C)(C)C1;O;2.23;CC1CCCC(C)(C)C1
+solute;solvent;O=C(O)Cc1ccccc1;O;-8.74;O=C(O)Cc1ccccc1
+solute;solvent;CCC(C)Br;O;-0.27;CCC(C)Br
+solute;solvent;COC(=O)c1cc([N+](=O)[O-])cc([N+](=O)[O-])c1;O;-8.92;COC(=O)c1cc([N+](=O)[O-])cc([N+](=O)[O-])c1
+solute;solvent;Cc1ccc(CO)cc1;O;-7.12;Cc1ccc(CO)cc1
+solute;solvent;C=COC(C)=O;O;-2.67;C=COC(C)=O
+solute;solvent;C=CC=O;O;-3.16;C=CC=O
+solute;solvent;CC1CCC(C(C)C)C(O)C1;O;-3.2;CC1CCC(C(C)C)C(O)C1
+solute;solvent;CCCCCCCOC(C)=O;O;-2.07;CCCCCCCOC(C)=O
+solute;solvent;CCCCCCCCCCCCCN;O;-3.2;CCCCCCCCCCCCCN
+solute;solvent;Clc1ccc(C(c2ccc(Cl)cc2)C(Cl)Cl)cc1;O;-4.88;Clc1ccc(C(c2ccc(Cl)cc2)C(Cl)Cl)cc1
+solute;solvent;O=C(O)c1ccc(C(=O)O)cc1;O;-11.39;O=C(O)c1ccc(C(=O)O)cc1
+solute;solvent;CC(=O)OCCc1ccccc1;O;-5.5;CC(=O)OCCc1ccccc1
+solute;solvent;CCCC(=O)CC(C)=O;O;-4.39;CCCC(=O)CC(C)=O
+solute;solvent;CC(C)OC(C)(C)C;O;-1.01;CC(C)OC(C)(C)C
+solute;solvent;Cc1cccc(C(C)C)c1;O;-0.72;Cc1cccc(C(C)C)c1
+solute;solvent;CC(=O)C(C)C(C)=O;O;-4.75;CC(=O)C(C)C(C)=O
+solute;solvent;CCCCCCCCC=CCCCCCCCC(=O)OCC;O;-8.25;CCCCCCCCC=CCCCCCCCC(=O)OCC
+solute;solvent;CC=Cc1ccc(O)c(OC)c1;O;-6.33;CC=Cc1ccc(O)c(OC)c1
+solute;solvent;CC(C)c1ccc2c(c1)CCC1C(C)(C)CCCC21C;O;-0.37;CC(C)c1ccc2c(c1)CCC1C(C)(C)CCCC21C
+solute;solvent;Cc1cc(=O)n(-c2ccccc2)n1C;O;-13.29;Cc1cc(=O)n(-c2ccccc2)n1C
+solute;solvent;O=C(O)c1cccc([N+](=O)[O-])c1;O;-9.45;O=C(O)c1cccc([N+](=O)[O-])c1
+solute;solvent;O=C(O)c1ccc([N+](=O)[O-])cc1;O;-9.44;O=C(O)c1ccc([N+](=O)[O-])cc1
+solute;solvent;CC(C)CCC(C)C;O;2.78;CC(C)CCC(C)C
+solute;solvent;C=C(C)C1CCC(C)C2=C(C1)C(C)CC2;O;-0.01;C=C(C)C1CCC(C)C2=C(C1)C(C)CC2
+solute;solvent;CCNc1nc(NC(C)CC)nc(OC)n1;O;-9.89;CCNc1nc(NC(C)CC)nc(OC)n1
+solute;solvent;O=C(OC1CCCCCC1)c1ccccc1C(=O)OC1CCCCCC1;O;-8.87;O=C(OC1CCCCCC1)c1ccccc1C(=O)OC1CCCCCC1
+solute;solvent;CCCCC1CCCCC1;O;1.96;CCCCC1CCCCC1
+solute;solvent;C=C(C)C(CC=C(C)C)COC(C)=O;O;-3.36;C=C(C)C(CC=C(C)C)COC(C)=O
+solute;solvent;Cc1ccc(CN)cc1;O;-6.07;Cc1ccc(CN)cc1
+solute;solvent;O=C(O)c1cccc([N+](=O)[O-])c1C(=O)O;O;-17.28;O=C(O)c1cccc([N+](=O)[O-])c1C(=O)O
+solute;solvent;CN(C)CCC(c1ccc(Br)cc1)c1ccccn1;O;-11.6;CN(C)CCC(c1ccc(Br)cc1)c1ccccn1
+solute;solvent;CN1C(=O)CN=C(c2ccccc2)c2cc(Cl)ccc21;O;-12.58;CN1C(=O)CN=C(c2ccccc2)c2cc(Cl)ccc21
+solute;solvent;C=CC(C)(CCC=C(C)C)OC=O;O;-3.6;C=CC(C)(CCC=C(C)C)OC=O
+solute;solvent;[2H][2H];O;2.36;[2H][2H]
+solute;solvent;CCCCCC(=O)c1c(C)[nH]n(-c2ccccc2)c1=O;O;-9.26;CCCCCC(=O)c1c(C)[nH]n(-c2ccccc2)c1=O
+solute;solvent;CNc1nc(NC(C)C)nc(SC)n1;O;-10.5;CNc1nc(NC(C)C)nc(SC)n1
+solute;solvent;O=c1c2ccccc2sc2ccccc12;O;-6.9;O=c1c2ccccc2sc2ccccc12
+solute;solvent;CCCCCCCCCCOC(=O)c1ccccc1C(=O)OCC;O;-6.78;CCCCCCCCCCOC(=O)c1ccccc1C(=O)OCC
+solute;solvent;O=C(O)c1cc([N+](=O)[O-])ccc1Cl;O;-9.48;O=C(O)c1cc([N+](=O)[O-])ccc1Cl
+solute;solvent;c1ccc(N=Nc2ccccc2)cc1;O;-4.82;c1ccc(N=Nc2ccccc2)cc1
+solute;solvent;C1CO1;O;-2.87;C1CO1
+solute;solvent;C=C(C)C1CC=C(C)C(OC(=O)CCC)C1;O;-3.9;C=C(C)C1CC=C(C)C(OC(=O)CCC)C1
+solute;solvent;ClC1=C(Cl)C2(Cl)C3C(Cl)CC(Cl)C3C1(Cl)C2(Cl)Cl;O;-3.44;ClC1=C(Cl)C2(Cl)C3C(Cl)CC(Cl)C3C1(Cl)C2(Cl)Cl
+solute;solvent;CCCCCCCCOC(=O)c1ccccc1C(=O)OCCCC;O;-6.83;CCCCCCCCOC(=O)c1ccccc1C(=O)OCCCC
+solute;solvent;CC(=O)OCCC(C)CCC=C(C)C;O;-2.99;CC(=O)OCCC(C)CCC=C(C)C
+solute;solvent;Cc1cccc2c(C)cccc12;O;-2.78;Cc1cccc2c(C)cccc12
+solute;solvent;CCC(C)OC(C)CC;O;-0.8;CCC(C)OC(C)CC
+solute;solvent;CC(C)Nc1nc(Cl)nc(NC(C)C)n1;O;-9.55;CC(C)Nc1nc(Cl)nc(NC(C)C)n1
+solute;solvent;C=C(CCC=C(C)C)C1CC=C(C)CC1;O;-0.5;C=C(CCC=C(C)C)C1CC=C(C)CC1
+solute;solvent;CC1=CCC(=C(C)C)CCC(C)=CCC1;O;-0.37;CC1=CCC(=C(C)C)CCC(C)=CCC1
+solute;solvent;Oc1ccc(-c2ccccc2)cc1;O;-8.89;Oc1ccc(-c2ccccc2)cc1
+solute;solvent;C=C1CCC23CC1C(C)(C)C2CCC3C;O;0.8;C=C1CCC23CC1C(C)(C)C2CCC3C
+solute;solvent;O=C(OC1CCCCC1)c1ccccc1C(=O)OC1CCCCC1;O;-9.07;O=C(OC1CCCCC1)c1ccccc1C(=O)OC1CCCCC1
+solute;solvent;C=CCCCCCCCC;O;2.24;C=CCCCCCCCC
+solute;solvent;C=CCC(C)C;O;1.9;C=CCC(C)C
+solute;solvent;C1COCCOCCOCCOCCO1;O;-12.82;C1COCCOCCOCCOCCO1
+solute;solvent;CCCCCCCCCCCOC(=O)c1ccccc1C(=O)OCCCCCCCCCCC;O;-6.08;CCCCCCCCCCCOC(=O)c1ccccc1C(=O)OCCCCCCCCCCC
+solute;solvent;Clc1ccc(-c2cc(Cl)c(Cl)c(Cl)c2)cc1Cl;O;-3.79;Clc1ccc(-c2cc(Cl)c(Cl)c(Cl)c2)cc1Cl
+solute;solvent;C=C1CC=C(C(C)C)CC1;O;0.05;C=C1CC=C(C(C)C)CC1
+solute;solvent;Nc1ncnc2nc[nH]c12;O;-17.35;Nc1ncnc2nc[nH]c12
+solute;solvent;CCCOC(=O)c1ccccc1C(=O)OCCC;O;-7.56;CCCOC(=O)c1ccccc1C(=O)OCCC
+solute;solvent;C1CCCCCC1;O;0.79;C1CCCCCC1
+solute;solvent;O=[N+]([O-])c1ccc(CCl)cc1;O;-5.14;O=[N+]([O-])c1ccc(CCl)cc1
+solute;solvent;CCNc1nc(NC(C)(C)C)nc(OC)n1;O;-9.0;CCNc1nc(NC(C)(C)C)nc(OC)n1
+solute;solvent;COc1ccc(CCN)cc1;O;-8.51;COc1ccc(CCN)cc1
+solute;solvent;Cc1ccc(N(O)C(=O)c2ccccc2C)cc1;O;-11.46;Cc1ccc(N(O)C(=O)c2ccccc2C)cc1
+solute;solvent;Clc1cc(Cl)c(-c2cc(Cl)ccc2Cl)c(Cl)c1;O;-2.25;Clc1cc(Cl)c(-c2cc(Cl)ccc2Cl)c(Cl)c1
+solute;solvent;C1CCCCCCC1;O;0.91;C1CCCCCCC1
+solute;solvent;COc1ccc(C(=O)N(O)c2cccc(Cl)c2)cc1;O;-12.8;COc1ccc(C(=O)N(O)c2cccc(Cl)c2)cc1
+solute;solvent;CC(=O)OCC=C(C)CCC=C(C)CCC=C(C)C;O;-3.96;CC(=O)OCC=C(C)CCC=C(C)CCC=C(C)C
+solute;solvent;C=CC1CC=CCC1;O;0.36;C=CC1CC=CCC1
+solute;solvent;Cc1ccc([N+](=O)[O-])cc1[N+](=O)[O-];O;-7.72;Cc1ccc([N+](=O)[O-])cc1[N+](=O)[O-]
+solute;solvent;CC(C)C#N;O;-3.31;CC(C)C#N
+solute;solvent;CC(C)S;O;-0.7;CC(C)S
+solute;solvent;CCCCC(C)CCC;O;3.57;CCCCC(C)CCC
+solute;solvent;C=C(C)C(=O)O;O;-6.08;C=C(C)C(=O)O
+solute;solvent;CC(C)(C)C(=O)CC(=O)C(C)(C)C;O;-4.43;CC(C)(C)C(=O)CC(=O)C(C)(C)C
+solute;solvent;COc1cc(C(C)=O)cc(-c2cc(C(C)=O)cc(OC)c2O)c1O;O;-19.21;COc1cc(C(C)=O)cc(-c2cc(C(C)=O)cc(OC)c2O)c1O
+solute;solvent;C=CC(=C)CCC=C(C)C;O;-0.5;C=CC(=C)CCC=C(C)C
+solute;solvent;NCc1ccccc1;O;-6.34;NCc1ccccc1
+solute;solvent;CC1=CCC(C(C)C)c2cc(C)ccc21;O;-1.12;CC1=CCC(C(C)C)c2cc(C)ccc21
+solute;solvent;CCCCN(CC)N=O;O;-5.25;CCCCN(CC)N=O
+solute;solvent;Nc1cc([N+](=O)[O-])cc(Cl)c1O;O;-10.15;Nc1cc([N+](=O)[O-])cc(Cl)c1O
+solute;solvent;Cc1ccc(C=O)o1;O;-5.5;Cc1ccc(C=O)o1
+solute;solvent;Clc1ccc(-c2ccc(Cl)cc2)cc1;O;-2.91;Clc1ccc(-c2ccc(Cl)cc2)cc1
+solute;solvent;O=[N+]([O-])c1cccc(Cl)c1;O;-4.45;O=[N+]([O-])c1cccc(Cl)c1
+solute;solvent;c1ccc2c(c1)ccc1c3ccccc3ccc21;O;-6.53;c1ccc2c(c1)ccc1c3ccccc3ccc21
+solute;solvent;OC1CCCCCCCCCCC1;O;-5.35;OC1CCCCCCCCCCC1
+solute;solvent;Clc1ccc(-c2ccc(Cl)cc2Cl)cc1;O;-2.77;Clc1ccc(-c2ccc(Cl)cc2Cl)cc1
+solute;solvent;CC(=O)OC(C)(C)C1CC=C(C)CC1;O;-3.41;CC(=O)OC(C)(C)C1CC=C(C)CC1
+solute;solvent;CCC(C)(C)OC;O;-1.77;CCC(C)(C)OC
+solute;solvent;CCCCCCCCCCCCCCCCCCCCCCCCCCC;O;5.74;CCCCCCCCCCCCCCCCCCCCCCCCCCC
+solute;solvent;ClC1=C(Cl)C2(Cl)C3C(Cl)C=CC3C1(Cl)C2(Cl)Cl;O;-2.55;ClC1=C(Cl)C2(Cl)C3C(Cl)C=CC3C1(Cl)C2(Cl)Cl
+solute;solvent;FS(F)(F)(F)(F)F;O;3.04;FS(F)(F)(F)(F)F
+solute;solvent;CCc1ccc2c(c1)C(=O)c1ccccc1C2=O;O;-6.57;CCc1ccc2c(c1)C(=O)c1ccccc1C2=O
+solute;solvent;CCCCN(CCCC)CCCC;O;-4.09;CCCCN(CCCC)CCCC
+solute;solvent;CN(C)C1CCCCC1;O;-4.12;CN(C)C1CCCCC1
+solute;solvent;C=CCCC(C)C;O;1.77;C=CCCC(C)C
+solute;solvent;O=C(c1ccccc1)N(O)c1cccc(Cl)c1;O;-10.89;O=C(c1ccccc1)N(O)c1cccc(Cl)c1
+solute;solvent;O=C(O)c1cccc2ccccc12;O;-9.04;O=C(O)c1cccc2ccccc12
+solute;solvent;Clc1ccc(Cl)c(-c2cc(Cl)c(Cl)cc2Cl)c1;O;-2.82;Clc1ccc(Cl)c(-c2cc(Cl)c(Cl)cc2Cl)c1
+solute;solvent;C=C(C)C1CC=C(C)CCC=C(C)CC1;O;-0.37;C=C(C)C1CC=C(C)CCC=C(C)CC1
+solute;solvent;CN(Cc1ccccc1)N=O;O;-7.03;CN(Cc1ccccc1)N=O
+solute;solvent;Clc1ccc(-c2cc(Cl)c(Cl)cc2Cl)cc1Cl;O;-3.36;Clc1ccc(-c2cc(Cl)c(Cl)cc2Cl)cc1Cl
+solute;solvent;Brc1cccc(Br)c1;O;-1.99;Brc1cccc(Br)c1
+solute;solvent;C=C1CCC23C(C)CCC(C(C)C)C2C13;O;0.63;C=C1CCC23C(C)CCC(C(C)C)C2C13
+solute;solvent;O=C(O)c1ccccc1Cl;O;-7.53;O=C(O)c1ccccc1Cl
+solute;solvent;CNC=O;O;-8.87;CNC=O
+solute;solvent;O=C(CC(=O)C(F)(F)F)C(F)(F)F;O;-4.56;O=C(CC(=O)C(F)(F)F)C(F)(F)F
+solute;solvent;CCNc1nc(NC(C)C(C)C)nc(SC)n1;O;-8.73;CCNc1nc(NC(C)C(C)C)nc(SC)n1
+solute;solvent;Nc1ccc(S(N)(=O)=O)cc1;O;-14.75;Nc1ccc(S(N)(=O)=O)cc1
+solute;solvent;C=C(C)C1CC=C(C)C(OC=O)C1;O;-3.82;C=C(C)C1CC=C(C)C(OC=O)C1
+solute;solvent;OCCCl;O;-6.28;OCCCl
+solute;solvent;CCCCC(CC)CO;O;-3.96;CCCCC(CC)CO
+solute;solvent;CC(CC(C)(C)C)CC(C)(C)CC(C)(C)C;O;4.46;CC(CC(C)(C)C)CC(C)(C)CC(C)(C)C
+solute;solvent;CCCCC(=O)CC(C)=O;O;-4.28;CCCCC(=O)CC(C)=O
+solute;solvent;CCCCCCCCCC(=O)OC;O;-1.91;CCCCCCCCCC(=O)OC
+solute;solvent;CCCCCC(C)O;O;-3.88;CCCCCC(C)O
+solute;solvent;C=CC(C)(O)CCC=C(C)C;O;-4.17;C=CC(C)(O)CCC=C(C)C
+solute;solvent;Cc1c(C)c(C)c(C)c(C)c1C;O;-1.95;Cc1c(C)c(C)c(C)c(C)c1C
+solute;solvent;CC(C)CCCCCOC(=O)c1ccccc1C(=O)OCCCCCC(C)C;O;-6.43;CC(C)CCCCCOC(=O)c1ccccc1C(=O)OCCCCCC(C)C
+solute;solvent;O=C(O)c1ccccc1O;O;-7.35;O=C(O)c1ccccc1O
+solute;solvent;CCCCOC(=O)c1ccccc1C(=O)OC(CC)CCCC;O;-6.71;CCCCOC(=O)c1ccccc1C(=O)OC(CC)CCCC
+solute;solvent;CCCCCCCCCCCC(=O)OC;O;-2.91;CCCCCCCCCCCC(=O)OC
+solute;solvent;O=C1c2ccccc2C(=O)c2c(Cl)cccc21;O;-8.23;O=C1c2ccccc2C(=O)c2c(Cl)cccc21
+solute;solvent;CCCCCCCCCC(=O)O;O;-5.28;CCCCCCCCCC(=O)O
+solute;solvent;CNCc1ccc(C)cc1;O;-5.95;CNCc1ccc(C)cc1
+solute;solvent;C=CC(C)CCCC(C)CCCC(C)CCCC(C)C;O;3.75;C=CC(C)CCCC(C)CCCC(C)CCCC(C)C
+solute;solvent;CCCCCOC(=O)c1ccccc1C(=O)OCCCCC;O;-6.96;CCCCCOC(=O)c1ccccc1C(=O)OCCCCC
+solute;solvent;CCCCN(C)N=O;O;-5.37;CCCCN(C)N=O
+solute;solvent;Nc1ccc(Cc2ccc(N)cc2)cc1;O;-16.26;Nc1ccc(Cc2ccc(N)cc2)cc1
+solute;solvent;CCCCCCCCOC(=O)c1ccccc1C(=O)OCCCCCCCC;O;-6.68;CCCCCCCCOC(=O)c1ccccc1C(=O)OCCCCCCCC
+solute;solvent;C=CC#N;O;-3.34;C=CC#N
+solute;solvent;ClC1CCCCC1;O;-0.93;ClC1CCCCC1
+solute;solvent;CCN(N=O)C(C)C;O;-5.46;CCN(N=O)C(C)C
+solute;solvent;CCCCCCCCCCCCCCCCCCCCCC;O;4.87;CCCCCCCCCCCCCCCCCCCCCC
+solute;solvent;CC(C)CCCCCCCOC(=O)c1ccccc1C(=O)OCCCCCCCC(C)C;O;-5.93;CC(C)CCCCCCCOC(=O)c1ccccc1C(=O)OCCCCCCCC(C)C
+solute;solvent;CN(C)N=O;O;-6.02;CN(C)N=O
+solute;solvent;COc1cccc(C=O)c1O;O;-6.89;COc1cccc(C=O)c1O
+solute;solvent;CCNc1nc(Cl)nc(NC(C)C)n1;O;-9.69;CCNc1nc(Cl)nc(NC(C)C)n1
+solute;solvent;Oc1ccccc1O;O;-9.82;Oc1ccccc1O
+solute;solvent;CN(C)CC=C(c1ccc(Br)cc1)c1cccnc1;O;-11.9;CN(C)CC=C(c1ccc(Br)cc1)c1cccnc1
+solute;solvent;O=CN1CCOCC1;O;-9.41;O=CN1CCOCC1
+solute;solvent;Brc1cc(Br)cc(Br)c1;O;-1.91;Brc1cc(Br)cc(Br)c1
+solute;solvent;CC(C)CCCCOC(=O)c1ccccc1C(=O)OCCCCC(C)C;O;-6.55;CC(C)CCCCOC(=O)c1ccccc1C(=O)OCCCCC(C)C
+solute;solvent;Cc1cc(NS(=O)(=O)c2ccc(N)cc2)nc(C)n1;O;-21.85;Cc1cc(NS(=O)(=O)c2ccc(N)cc2)nc(C)n1
+solute;solvent;COC(=O)c1ccc(Cl)c([N+](=O)[O-])c1;O;-6.89;COC(=O)c1ccc(Cl)c([N+](=O)[O-])c1
+solute;solvent;CC(=O)N(C)C;O;-8.15;CC(=O)N(C)C
+solute;solvent;CCCCCCCCCCCCCCCCCCCCCCC;O;5.07;CCCCCCCCCCCCCCCCCCCCCCC
+solute;solvent;C=C(C)C1CCC2(CO)CCC3(C)C(CCC4C5(C)CCC(O)C(C)(C)C5CCC43C)C12;O;-14.17;C=C(C)C1CCC2(CO)CCC3(C)C(CCC4C5(C)CCC(O)C(C)(C)C5CCC43C)C12
+solute;solvent;CCCC1CCCCC1;O;1.8;CCCC1CCCCC1
+solute;solvent;Cc1cccc(C(=O)O)c1;O;-6.79;Cc1cccc(C(=O)O)c1
+solute;solvent;CC1=CC(=O)C(C(C)C)CC1;O;-4.51;CC1=CC(=O)C(C(C)C)CC1
+solute;solvent;C=C(C)C1=CC=C(C)CC1;O;-1.35;C=C(C)C1=CC=C(C)CC1
+solute;solvent;CC1=CC2C(=CC1)C(C)CCC2C(C)C;O;-0.26;CC1=CC2C(=CC1)C(C)CCC2C(C)C
+solute;solvent;CC1=CCC2C(C1)C2(C)C;O;0.79;CC1=CCC2C(C1)C2(C)C
+solute;solvent;FC(F)C(F)Oc1ccccc1;O;-1.29;FC(F)C(F)Oc1ccccc1
+solute;solvent;Clc1ccc(Cl)c(-c2ccccc2Cl)c1;O;-2.37;Clc1ccc(Cl)c(-c2ccccc2Cl)c1
+solute;solvent;CC=C(C)C=CC=C(C)C;O;-0.55;CC=C(C)C=CC=C(C)C
+solute;solvent;CC(CCO[N+](=O)[O-])O[N+](=O)[O-];O;-4.29;CC(CCO[N+](=O)[O-])O[N+](=O)[O-]
+solute;solvent;CCC(O)C(C)C;O;-3.88;CCC(O)C(C)C
+solute;solvent;CC(=O)C1COCCOCCOCCOCCOc2ccccc2O1;O;-17.8;CC(=O)C1COCCOCCOCCOCCOc2ccccc2O1
+solute;solvent;CC(C)(Cl)Cl;O;-0.43;CC(C)(Cl)Cl
+solute;solvent;Nc1ccc(S(=O)(=O)Nc2ccccn2)cc1;O;-18.74;Nc1ccc(S(=O)(=O)Nc2ccccn2)cc1
+solute;solvent;c1ccc2c(c1)OCCOCCOCCOCCO2;O;-14.39;c1ccc2c(c1)OCCOCCOCCOCCO2
+solute;solvent;C=CC(C)=CCCC(=C)C;O;-0.55;C=CC(C)=CCCC(=C)C
+solute;solvent;CCCCC(=O)CC;O;-3.04;CCCCC(=O)CC
+solute;solvent;CC(C)C(C)(C)C;O;2.62;CC(C)C(C)(C)C
+solute;solvent;COC(=O)c1cc(OC)c(O)c(-c2cc(C(=O)OC)cc(OC)c2O)c1;O;-17.32;COC(=O)c1cc(OC)c(O)c(-c2cc(C(=O)OC)cc(OC)c2O)c1
+solute;solvent;CCCCCCCCCOC(=O)c1ccccc1C(=O)OCCCC;O;-6.67;CCCCCCCCCOC(=O)c1ccccc1C(=O)OCCCC
+solute;solvent;O=C(O)c1ccccc1;O;-6.96;O=C(O)c1ccccc1
+solute;solvent;CC1=CCC23C(C)CCC(C(C)C)C2C13;O;0.56;CC1=CCC23C(C)CCC(C(C)C)C2C13
+solute;solvent;CN1CCCC1=O;O;-7.83;CN1CCCC1=O
+solute;solvent;CC(C(=O)O)c1ccc(N2CC=CC2)c(Cl)c1;O;-11.28;CC(C(=O)O)c1ccc(N2CC=CC2)c(Cl)c1
+solute;solvent;Cc1c(C(=O)O)cc([N+](=O)[O-])cc1[N+](=O)[O-];O;-13.58;Cc1c(C(=O)O)cc([N+](=O)[O-])cc1[N+](=O)[O-]
+solute;solvent;CCCCCC(=O)CC(=O)CCCCC;O;-3.68;CCCCCC(=O)CC(=O)CCCCC
+solute;solvent;CCCCCCCCCCCCC;O;4.12;CCCCCCCCCCCCC
+solute;solvent;CC1=CCC2CC1C2(C)C;O;0.97;CC1=CCC2CC1C2(C)C
+solute;solvent;C=CC=CC=C;O;0.2;C=CC=CC=C
+solute;solvent;CNCCc1ccc(OC)cc1;O;-7.94;CNCCc1ccc(OC)cc1
+solute;solvent;CCCC(=O)CC;O;-3.07;CCCC(=O)CC
+solute;solvent;CC(C)=CCCC(C)C1C=CC(C)=CC1;O;-0.11;CC(C)=CCCC(C)C1C=CC(C)=CC1
+solute;solvent;O=Nc1c(O)ccc2ccccc12;O;-7.31;O=Nc1c(O)ccc2ccccc12
+solute;solvent;CC1CCCC(O)C1;O;-5.21;CC1CCCC(O)C1
+solute;solvent;O=C(O)c1ccc(O)cc1;O;-9.25;O=C(O)c1ccc(O)cc1
+solute;solvent;O=NN1CCOCC1;O;-7.78;O=NN1CCOCC1
+solute;solvent;CN(C)CCc1ccc(O)cc1;O;-11.3;CN(C)CCc1ccc(O)cc1
+solute;solvent;C=C(C)CC(C)(C)C;O;2.01;C=C(C)CC(C)(C)C
+solute;solvent;CC(=O)OC1CCC2(C)C(=CCC3C2CCC2(C)C(C(C)CCCC(C)C)CCC32)C1;O;-5.48;CC(=O)OC1CCC2(C)C(=CCC3C2CCC2(C)C(C(C)CCCC(C)C)CCC32)C1
+solute;solvent;O=C(C(=O)c1ccccc1)c1ccccc1;O;-6.64;O=C(C(=O)c1ccccc1)c1ccccc1
+solute;solvent;Cc1ccc(C(=O)O)cc1C;O;-6.55;Cc1ccc(C(=O)O)cc1C
+solute;solvent;CCCCCCCCCCCCCCCCCCCCCCCCCCCC;O;5.92;CCCCCCCCCCCCCCCCCCCCCCCCCCCC
+solute;solvent;CC1=CCC(C(C)C)C=C1;O;0.2;CC1=CCC(C(C)C)C=C1
+solute;solvent;O=C(c1ccccc1)C(O)c1ccccc1;O;-11.91;O=C(c1ccccc1)C(O)c1ccccc1
+solute;solvent;Nc1ncnc2c1ncn2C1CCC(CO)O1;O;-20.54;Nc1ncnc2c1ncn2C1CCC(CO)O1
+solute;solvent;C=CCCCC=C;O;1.16;C=CCCCC=C
+solute;solvent;FC(F)=CCl;O;0.52;FC(F)=CCl
+solute;solvent;O=C(O)CCCc1ccccc1;O;-9.07;O=C(O)CCCc1ccccc1
+solute;solvent;NC=O;O;-10.19;NC=O
+solute;solvent;O=C(O)Cc1cccc(Cl)c1;O;-8.39;O=C(O)Cc1cccc(Cl)c1
+solute;solvent;CCC(=O)c1c(C)[nH]n(-c2ccccc2)c1=O;O;-9.74;CCC(=O)c1c(C)[nH]n(-c2ccccc2)c1=O
+solute;solvent;FCC(F)(F)F;O;0.56;FCC(F)(F)F
+solute;solvent;Oc1ccc(Br)cc1Br;O;-5.69;Oc1ccc(Br)cc1Br
+solute;solvent;OCCCO;O;-9.96;OCCCO
+solute;solvent;CCCCCCCCCCCCCCCCCCCCCCCC;O;5.24;CCCCCCCCCCCCCCCCCCCCCCCC
+solute;solvent;CCCCCCCCCCCCCCCCCCC;O;4.38;CCCCCCCCCCCCCCCCCCC
+solute;solvent;Cc1ccc2c(C)ccc(C(C)C)c2c1;O;-2.5;Cc1ccc2c(C)ccc(C(C)C)c2c1
+solute;solvent;CCCCCCC(C)O;O;-3.77;CCCCCCC(C)O
+solute;solvent;CC1=CCC23CC1C(C)(C)C2CCC3C;O;0.78;CC1=CCC23CC1C(C)(C)C2CCC3C
+solute;solvent;CC(C)CCl;O;0.03;CC(C)CCl
+solute;solvent;C=CC(C)(C)O;O;-4.19;C=CC(C)(C)O
+solute;solvent;CC(C)C(=O)CC(=O)C(C)C;O;-4.08;CC(C)C(=O)CC(=O)C(C)C
+solute;solvent;CCSc1nc(NC(C)C)nc(NC(C)C)n1;O;-9.0;CCSc1nc(NC(C)C)nc(NC(C)C)n1
+solute;solvent;Clc1cc(Cl)c(-c2c(Cl)cc(Cl)cc2Cl)c(Cl)c1;O;-1.96;Clc1cc(Cl)c(-c2c(Cl)cc(Cl)cc2Cl)c(Cl)c1
+solute;solvent;C=CC(C)(C)C;O;1.57;C=CC(C)(C)C
+solute;solvent;C1=CCCC=C1;O;-0.26;C1=CCCC=C1
+solute;solvent;O=C(CCCN1CCC(O)(c2ccc(Cl)cc2)CC1)c1ccc(F)cc1;O;-15.42;O=C(CCCN1CCC(O)(c2ccc(Cl)cc2)CC1)c1ccc(F)cc1
+solute;solvent;Clc1cc(Cl)cc(-c2cc(Cl)ccc2Cl)c1;O;-2.73;Clc1cc(Cl)cc(-c2cc(Cl)ccc2Cl)c1
+solute;solvent;CC(=O)Cc1ccccc1;O;-5.62;CC(=O)Cc1ccccc1
+solute;solvent;O=[N+]([O-])c1cccc(CO)c1;O;-9.19;O=[N+]([O-])c1cccc(CO)c1
+solute;solvent;CCCCCCCCCCCCCCCCCCCCC;O;4.71;CCCCCCCCCCCCCCCCCCCCC
+solute;solvent;CC1(C)CCCC2(C)C3CC4C(C31)C42C;O;1.12;CC1(C)CCCC2(C)C3CC4C(C31)C42C
+solute;solvent;Clc1ccc(-c2ccc(Cl)c(Cl)c2)cc1Cl;O;-3.62;Clc1ccc(-c2ccc(Cl)c(Cl)c2)cc1Cl
+solute;solvent;CCc1cccs1;O;-0.93;CCc1cccs1
+solute;solvent;CCCCCCC(=O)O;O;-6.12;CCCCCCC(=O)O
+solute;solvent;CCCCN(CCCC)N=O;O;-4.91;CCCCN(CCCC)N=O
+solute;solvent;CC(C)CCOC(=O)c1ccccc1C(=O)OCCC(C)C;O;-6.88;CC(C)CCOC(=O)c1ccccc1C(=O)OCCC(C)C
+solute;solvent;CCCCCCCCC=CCCCCCCCCCCCC(=O)OC;O;-1.09;CCCCCCCCC=CCCCCCCCCCCCC(=O)OC
+solute;solvent;CN1C2CCC1CC(OC(=O)C(O)c1ccccc1)C2;O;-13.79;CN1C2CCC1CC(OC(=O)C(O)c1ccccc1)C2
+solute;solvent;CC(C)CCCC(C)C1CCC2C3CC=C4CC(O)CCC4(C)C3CCC12C;O;-5.93;CC(C)CCCC(C)C1CCC2C3CC=C4CC(O)CCC4(C)C3CCC12C
+solute;solvent;C=CC(C)=CCC=C(C)CCC=C(C)C;O;-1.06;C=CC(C)=CCC=C(C)CCC=C(C)C
+solute;solvent;O=C(O)Cc1ccc(O)cc1;O;-12.97;O=C(O)Cc1ccc(O)cc1
+solute;solvent;FC(F)C(F)(F)F;O;1.45;FC(F)C(F)(F)F
+solute;solvent;COc1nc(NC(C)C)nc(NC(C)C)n1;O;-9.69;COc1nc(NC(C)C)nc(NC(C)C)n1
+solute;solvent;CCCCC(=O)CC(=O)CCCC;O;-4.13;CCCCC(=O)CC(=O)CCCC
+solute;solvent;O=C(O)C=Cc1ccccc1;O;-8.38;O=C(O)C=Cc1ccccc1
+solute;solvent;CC1=CC2C(=C(C)CCC2C(C)C)CC1;O;-0.4;CC1=CC2C(=C(C)CCC2C(C)C)CC1
+solute;solvent;CCCCCCCNCc1ccc(C)cc1;O;-5.01;CCCCCCCNCc1ccc(C)cc1
+solute;solvent;CCCCCCCCCCCCCCCCCCCC;O;4.52;CCCCCCCCCCCCCCCCCCCC
+solute;solvent;Oc1cccc2cccnc12;O;-6.06;Oc1cccc2cccnc12
+solute;solvent;COc1ccc(C(c2ccc(OC)cc2)C(Cl)(Cl)Cl)cc1;O;-6.93;COc1ccc(C(c2ccc(OC)cc2)C(Cl)(Cl)Cl)cc1
+solute;solvent;CCCCCOC(=O)CCC;O;-2.55;CCCCCOC(=O)CCC
+solute;solvent;CC(=O)OC1CC(C)CCC1C(C)C;O;-2.59;CC(=O)OC1CC(C)CCC1C(C)C
+solute;solvent;C=C(C)C1CC=C(C)C(O)C1;O;-4.44;C=C(C)C1CC=C(C)C(O)C1
+solute;solvent;C=C1C2CCC3C2C(C)(C)CCCC13C;O;0.8;C=C1C2CCC3C2C(C)(C)CCCC13C
+solute;solvent;C(=Cc1ccccc1)c1ccccc1;O;-3.79;C(=Cc1ccccc1)c1ccccc1
+solute;solvent;CCCCCCCCCCCCCCCO;O;-2.92;CCCCCCCCCCCCCCCO
+solute;solvent;O=[N+]([O-])c1ccc(Cl)c(Cl)c1Cl;O;-4.07;O=[N+]([O-])c1ccc(Cl)c(Cl)c1Cl
+solute;solvent;CC1=CC2C(CC1)C2(C)C;O;0.78;CC1=CC2C(CC1)C2(C)C
+solute;solvent;CC1=CCC2C(C)=CCC(C(C)C)C2C1;O;-0.38;CC1=CCC2C(C)=CCC(C(C)C)C2C1
+solute;solvent;CN(C)C(=O)Nc1ccc(Cl)cc1;O;-10.41;CN(C)C(=O)Nc1ccc(Cl)cc1
+solute;solvent;CC1=CCC(C(C)C)=CC1;O;-0.03;CC1=CCC(C(C)C)=CC1
+solute;solvent;C=CC=CCC;O;0.75;C=CC=CCC
+solute;solvent;O=C(O)CCCCC(=O)O;O;-12.86;O=C(O)CCCCC(=O)O
+solute;solvent;COc1cc(Cl)c(Cl)c(Cl)c1Cl;O;-2.55;COc1cc(Cl)c(Cl)c(Cl)c1Cl
+solute;solvent;Nc1ccc(S(=O)(=O)Nc2nccs2)cc1;O;-18.25;Nc1ccc(S(=O)(=O)Nc2nccs2)cc1
+solute;solvent;C=C(C)C1CCC2=CCCC(C)C2(C)C1;O;-0.15;C=C(C)C1CCC2=CCCC(C)C2(C)C1
+solute;solvent;C=C1CC2CCC1C2(C)C;O;0.52;C=C1CC2CCC1C2(C)C
+solute;solvent;CCC(CC)CO;O;-3.73;CCC(CC)CO
+solute;solvent;COC(C)OC;O;-3.26;COC(C)OC
+solute;solvent;CCCCCCCC(=O)c1c(C)[nH]n(-c2ccccc2)c1=O;O;-8.85;CCCCCCCC(=O)c1c(C)[nH]n(-c2ccccc2)c1=O
+solute;solvent;Cc1cc(C)nc(NS(=O)(=O)c2ccc(N)cc2)n1;O;-19.96;Cc1cc(C)nc(NS(=O)(=O)c2ccc(N)cc2)n1
+solute;solvent;C=C1C2CCC(C2)C1(C)C;O;0.61;C=C1C2CCC(C2)C1(C)C
+solute;solvent;CCNc1nc(Cl)nc(NC(C)(C)C)n1;O;-8.66;CCNc1nc(Cl)nc(NC(C)(C)C)n1
+solute;solvent;c1ccc2c(c1)oc1ccccc12;O;-3.31;c1ccc2c(c1)oc1ccccc12
+solute;solvent;O=[N+]([O-])c1cccc([N+](=O)[O-])c1;O;-7.77;O=[N+]([O-])c1cccc([N+](=O)[O-])c1
+solute;solvent;CCN(C)N=O;O;-5.73;CCN(C)N=O
+solute;solvent;CC1=CCC2(C)CCCC(C)(C)C23CC13;O;0.46;CC1=CCC2(C)CCCC(C)(C)C23CC13
+solute;solvent;N#N;O;2.46;N#N
+solute;solvent;c1ccc2c(c1)-c1cccc3cccc-2c13;O;-4.69;c1ccc2c(c1)-c1cccc3cccc-2c13
+solute;solvent;CCCCC(=O)OCCC(C)CCC=C(C)C;O;-2.51;CCCCC(=O)OCCC(C)CCC=C(C)C
+solute;solvent;O=[N+]([O-])c1cccc2ccccc12;O;-5.65;O=[N+]([O-])c1cccc2ccccc12
+solute;solvent;C=C1CCC2C1C1C(C(C)C)CCC21C;O;1.19;C=C1CCC2C1C1C(C(C)C)CCC21C
+solute;solvent;CC(=O)CC(C)=O;O;-4.84;CC(=O)CC(C)=O
+solute;solvent;Clc1cc(-c2cc(Cl)c(Cl)c(Cl)c2Cl)c(Cl)c(Cl)c1Cl;O;-3.77;Clc1cc(-c2cc(Cl)c(Cl)c(Cl)c2Cl)c(Cl)c(Cl)c1Cl
+solute;solvent;C1=CCC=C1;O;-0.22;C1=CCC=C1
+solute;solvent;CCCCOP(=O)(OCCCC)OCCCC;O;-6.73;CCCCOP(=O)(OCCCC)OCCCC
+solute;solvent;CCCCOCCOC(=O)c1ccccc1C(=O)OCCOCCCC;O;-12.85;CCCCOCCOC(=O)c1ccccc1C(=O)OCCOCCCC
+solute;solvent;CC(=O)CC(=O)c1cccs1;O;-6.08;CC(=O)CC(=O)c1cccs1
+solute;solvent;COc1cc(C=O)ccc1O;O;-8.76;COc1cc(C=O)ccc1O
+solute;solvent;COC(=O)c1ccc(I)cc1;O;-5.09;COC(=O)c1ccc(I)cc1
+solute;solvent;COC(=O)OC;O;-3.53;COC(=O)OC
+solute;solvent;Cc1ccc([N+](=O)[O-])cc1;O;-4.96;Cc1ccc([N+](=O)[O-])cc1
+solute;solvent;Clc1cc(Cl)c(-c2c(Cl)c(Cl)cc(Cl)c2Cl)cc1Cl;O;-2.77;Clc1cc(Cl)c(-c2c(Cl)c(Cl)cc(Cl)c2Cl)cc1Cl
+solute;solvent;Clc1ccc(C(c2ccccc2Cl)C(Cl)(Cl)Cl)cc1;O;-5.31;Clc1ccc(C(c2ccccc2Cl)C(Cl)(Cl)Cl)cc1
+solute;solvent;O=C(O)c1cccc(C(=O)O)c1;O;-11.27;O=C(O)c1cccc(C(=O)O)c1
+solute;solvent;CC(=O)CC(=O)C(C)(C)C;O;-5.12;CC(=O)CC(=O)C(C)(C)C
+solute;solvent;Fc1c(F)c(F)c(F)c(F)c1F;O;0.1;Fc1c(F)c(F)c(F)c(F)c1F
+solute;solvent;Cc1cc(NS(=O)(=O)c2ccc(N)cc2)no1;O;-17.78;Cc1cc(NS(=O)(=O)c2ccc(N)cc2)no1
+solute;solvent;C=C1C=CC(C(C)C)CCC(C)=CCC1;O;0.14;C=C1C=CC(C(C)C)CCC(C)=CCC1
+solute;solvent;C=CCC(C)(C)C;O;1.53;C=CCC(C)(C)C
+solute;solvent;CC12CCC(=O)C=C1CCC1C2C(O)CC2(C)C1CCC2(O)C(=O)C(O)C(CCCCC(N)=O)C(N)=O;O;-33.74;CC12CCC(=O)C=C1CCC1C2C(O)CC2(C)C1CCC2(O)C(=O)C(O)C(CCCCC(N)=O)C(N)=O
+solute;solvent;C=C1CCC2C(C)CCC3C(C12)C3(C)C;O;0.42;C=C1CCC2C(C)CCC3C(C12)C3(C)C
+solute;solvent;Cc1cc(C)c(C)cc1C;O;-0.72;Cc1cc(C)c(C)cc1C
+solute;solvent;CC(=O)CC(=O)c1ccc(F)c(F)c1F;O;-5.07;CC(=O)CC(=O)c1ccc(F)c(F)c1F
+solute;solvent;CC(=O)OCC1=CCC2CC1C2(C)C;O;-3.6;CC(=O)OCC1=CCC2CC1C2(C)C
+solute;solvent;COC(=O)c1ccc(N(C)C)cc1;O;-7.01;COC(=O)c1ccc(N(C)C)cc1
+solute;solvent;[N-]=[N+]=O;O;0.31;[N-]=[N+]=O
+solute;solvent;O=Cc1ccco1;O;-5.28;O=Cc1ccco1
+solute;solvent;CC12C=CC(C1)C(C)(C)C2;O;0.64;CC12C=CC(C1)C(C)(C)C2
+solute;solvent;CC(C)=CCCC(C)CCOC=O;O;-3.08;CC(C)=CCCC(C)CCOC=O
+solute;solvent;Cc1nc(NS(=O)(=O)c2ccc(N)cc2)oc1C;O;-17.73;Cc1nc(NS(=O)(=O)c2ccc(N)cc2)oc1C
+solute;solvent;CC1=C(C)C2CCC1C2;O;0.53;CC1=C(C)C2CCC1C2
+solute;solvent;CCC1CO1;O;-2.93;CCC1CO1
+solute;solvent;CCC=CCC=CCC=CCCCCCCCC(=O)OC;O;-3.47;CCC=CCC=CCC=CCCCCCCCC(=O)OC
+solute;solvent;CCC(=O)CC(=O)CC;O;-4.71;CCC(=O)CC(=O)CC
+solute;solvent;CC(C)CCCOC(=O)c1ccccc1C(=O)OCCCC(C)C;O;-6.73;CC(C)CCCOC(=O)c1ccccc1C(=O)OCCCC(C)C
+solute;solvent;Clc1cc(Cl)c(Cl)c(Cl)c1Cl;O;-1.69;Clc1cc(Cl)c(Cl)c(Cl)c1Cl
+solute;solvent;CC1=CCC(=C(C)C)CC1;O;0.16;CC1=CCC(=C(C)C)CC1
+solute;solvent;Clc1cc(Cl)c(-c2cc(Cl)c(Cl)cc2Cl)cc1Cl;O;-3.1;Clc1cc(Cl)c(-c2cc(Cl)c(Cl)cc2Cl)cc1Cl
+solute;solvent;CCOC(=O)OCC;O;-3.28;CCOC(=O)OCC
+solute;solvent;c1ccc2c(c1)sc1ccccc12;O;-4.05;c1ccc2c(c1)sc1ccccc12
+solute;solvent;O=C(OCc1ccccc1)c1ccccc1C(=O)OCc1ccccc1;O;-11.31;O=C(OCc1ccccc1)c1ccccc1C(=O)OCc1ccccc1
+solute;solvent;O=[N+]([O-])c1ccc(O)c([N+](=O)[O-])c1;O;-7.61;O=[N+]([O-])c1ccc(O)c([N+](=O)[O-])c1
+solute;solvent;O=C(O)CCCCc1ccccc1;O;-8.68;O=C(O)CCCCc1ccccc1
+solute;solvent;CC(=O)Oc1ccccc1;O;-4.78;CC(=O)Oc1ccccc1
+solute;solvent;C#CC(C)(C)O;O;-5.18;C#CC(C)(C)O
+solute;solvent;C=C(C)C1CC=C(C)C(OC(=O)CC)C1;O;-3.87;C=C(C)C1CC=C(C)C(OC(=O)CC)C1
+solute;solvent;C=C(C)C1CCC2(C)CCC=C(C)C2C1;O;-0.16;C=C(C)C1CCC2(C)CCC=C(C)C2C1
+solute;solvent;CCCCCCCCCCCCCCC;O;4.29;CCCCCCCCCCCCCCC
+solute;solvent;FC(F)F;O;0.7;FC(F)F
+solute;solvent;OCC(O)C(O)C(O)C(O)CO;O;-23.62;OCC(O)C(O)C(O)C(O)CO
+solute;solvent;CCCOCCOC(=O)c1ccccc1C(=O)OCCOCCC;O;-13.16;CCCOCCOC(=O)c1ccccc1C(=O)OCCOCCC
+solute;solvent;Cc1ccc(C2(C)CCCC2(C)C)cc1;O;-0.61;Cc1ccc(C2(C)CCCC2(C)C)cc1
+solute;solvent;COc1ncnc(NS(=O)(=O)c2ccc(N)cc2)c1OC;O;-19.58;COc1ncnc(NS(=O)(=O)c2ccc(N)cc2)c1OC
+solute;solvent;CCCCCCCOC(=O)c1ccccc1C(=O)OCCCCC;O;-6.78;CCCCCCCOC(=O)c1ccccc1C(=O)OCCCCC
+solute;solvent;CCCCCCCCP(=O)(CCCCCCCC)CCCCCCCC;O;-15.48;CCCCCCCCP(=O)(CCCCCCCC)CCCCCCCC
+solute;solvent;Cc1cc(Cl)c(Cl)cc1Cl;O;-1.05;Cc1cc(Cl)c(Cl)cc1Cl
+solute;solvent;C=CC1(C)CCC(=C(C)C)CC1C(=C)C;O;-0.35;C=CC1(C)CCC(=C(C)C)CC1C(=C)C
+solute;solvent;C=C1CCC(C(C)C)c2cc(C)ccc21;O;-1.08;C=C1CCC(C(C)C)c2cc(C)ccc21
+solute;solvent;CCOCCOC(=O)c1ccccc1C(=O)OCCOCC;O;-13.42;CCOCCOC(=O)c1ccccc1C(=O)OCCOCC
+solute;solvent;O=NN1CCCCC1;O;-6.34;O=NN1CCCCC1
+solute;solvent;CCCCOC(=O)c1ccccc1C(=O)OCc1ccccc1;O;-9.55;CCCCOC(=O)c1ccccc1C(=O)OCc1ccccc1
+solute;solvent;Cc1ccc(C(=O)O)cc1;O;-7.35;Cc1ccc(C(=O)O)cc1
+solute;solvent;O=C(c1cc([N+](=O)[O-])cc([N+](=O)[O-])c1)N(O)c1ccccc1;O;-15.63;O=C(c1cc([N+](=O)[O-])cc([N+](=O)[O-])c1)N(O)c1ccccc1
+solute;solvent;CC(=O)CCCC(C)C;O;-3.0;CC(=O)CCCC(C)C
+solute;solvent;CCCCC(C)O;O;-4.28;CCCCC(C)O
+solute;solvent;Clc1cc(Cl)c(-c2ccc(Cl)c(Cl)c2Cl)cc1Cl;O;-3.34;Clc1cc(Cl)c(-c2ccc(Cl)c(Cl)c2Cl)cc1Cl
+solute;solvent;c1nc[nH]n1;O;-11.62;c1nc[nH]n1
+solute;solvent;CN(C)Cc1ccccc1;O;-5.05;CN(C)Cc1ccccc1
+solute;solvent;CC=CC;O;1.34;CC=CC
+solute;solvent;O=C=O;O;0.11;O=C=O
+solute;solvent;O=S=O;O;-2.07;O=S=O
+solute;solvent;CCCCCC(=O)CC(C)=O;O;-4.3;CCCCCC(=O)CC(C)=O
+solute;solvent;O=C(O)C(O)c1ccccc1;O;-13.71;O=C(O)C(O)c1ccccc1
+solute;solvent;FC(F)(F)Cl;O;2.31;FC(F)(F)Cl
+solute;solvent;CCCCCCCCCCCCCCO;O;-3.08;CCCCCCCCCCCCCCO
+solute;solvent;CN1C(=O)C(O)N=C(c2ccccc2)c2cc(Cl)ccc21;O;-15.18;CN1C(=O)C(O)N=C(c2ccccc2)c2cc(Cl)ccc21
+solute;solvent;Cc1ccccc1C(=O)N(O)c1ccccc1;O;-11.51;Cc1ccccc1C(=O)N(O)c1ccccc1
+solute;solvent;CCCCCCCCC=CCCCCCCCC(=O)OC;O;-2.13;CCCCCCCCC=CCCCCCCCC(=O)OC
+solute;solvent;C=C(C)C1CC=C(C=O)CC1;O;-4.09;C=C(C)C1CC=C(C=O)CC1
+solute;solvent;ClC(Cl)=C(c1ccc(Cl)cc1)c1ccc(Cl)cc1;O;-3.78;ClC(Cl)=C(c1ccc(Cl)cc1)c1ccc(Cl)cc1
+solute;solvent;O=[N+]([O-])c1c(Cl)c(Cl)cc(Cl)c1Cl;O;-3.77;O=[N+]([O-])c1c(Cl)c(Cl)cc(Cl)c1Cl
+solute;solvent;CCC(CC)CC;O;2.61;CCC(CC)CC
+solute;solvent;CCF;O;0.41;CCF
+solute;solvent;CCOc1ccc(C(=O)N(O)c2ccc(C)cc2)cc1;O;-12.43;CCOc1ccc(C(=O)N(O)c2ccc(C)cc2)cc1
+solute;solvent;CNCCc1ccc(O)cc1;O;-11.87;CNCCc1ccc(O)cc1
+solute;solvent;CCOCOCC;O;-2.96;CCOCOCC
+solute;solvent;c1cc2ccc3ccc4ccc5cccc6c(c1)c2c3c4c56;O;-8.98;c1cc2ccc3ccc4ccc5cccc6c(c1)c2c3c4c56
+solute;solvent;CCCCC(O)CC;O;-3.94;CCCCC(O)CC
+solute;solvent;O=C(O)c1ccc(Cl)cc1;O;-6.55;O=C(O)c1ccc(Cl)cc1
+solute;solvent;CC1CCC2(C(C)C)CC12;O;1.13;CC1CCC2(C(C)C)CC12
+solute;solvent;CCCC(=O)c1c(C)[nH]n(-c2ccccc2)c1=O;O;-9.51;CCCC(=O)c1c(C)[nH]n(-c2ccccc2)c1=O
+solute;solvent;Nc1ccc(S(=O)(=O)NC(=O)c2ccccc2)cc1;O;-18.12;Nc1ccc(S(=O)(=O)NC(=O)c2ccccc2)cc1
+solute;solvent;CCCCCCCC(C)O;O;-3.57;CCCCCCCC(C)O
+solute;solvent;COc1ccc2c(c1)c(CC(=O)O)c(C)n2C(=O)c1ccc(Cl)cc1;O;-15.1;COc1ccc2c(c1)c(CC(=O)O)c(C)n2C(=O)c1ccc(Cl)cc1
+solute;solvent;CCCC(=O)CC(=O)CCC;O;-4.33;CCCC(=O)CC(=O)CCC
+solute;solvent;CC(C)CN(CC(C)C)N=O;O;-4.84;CC(C)CN(CC(C)C)N=O
+solute;solvent;CCCCP(=O)(CCCC)CCCC;O;-11.09;CCCCP(=O)(CCCC)CCCC
+solute;solvent;NCCc1ccccc1;O;-6.56;NCCc1ccccc1
+solute;solvent;c1ccc2c(c1)OCCOCCOCCOCCOCCO2;O;-17.88;c1ccc2c(c1)OCCOCCOCCOCCOCCO2
+solute;solvent;O=[N+]([O-])c1cccc(Cl)c1Cl;O;-4.22;O=[N+]([O-])c1cccc(Cl)c1Cl
+solute;solvent;O=C(O)c1ccc2ccccc2c1;O;-8.54;O=C(O)c1ccc2ccccc2c1
+solute;solvent;CCOC(C)O;O;-6.7;CCOC(C)O
+solute;solvent;C=CC1(C)CCC(C(=C)C)CC1C(=C)C;O;-0.42;C=CC1(C)CCC(C(=C)C)CC1C(=C)C
+solute;solvent;FC(Cl)Cl;O;1.54;FC(Cl)Cl
+solute;solvent;ClC(Cl)=C(Cl)C(Cl)=C(Cl)Cl;O;-0.46;ClC(Cl)=C(Cl)C(Cl)=C(Cl)Cl
+solute;solvent;CCCCN(CCC)N=O;O;-5.12;CCCCN(CCC)N=O
+solute;solvent;C=C(C)C1CCC(C)C(=O)C1;O;-3.75;C=C(C)C1CCC(C)C(=O)C1
+solute;solvent;CN(C)c1ccc(C(=O)O)cc1;O;-9.28;CN(C)c1ccc(C(=O)O)cc1
+solute;solvent;Oc1ccc(I)cc1;O;-7.61;Oc1ccc(I)cc1
+solute;solvent;CCCCCCCCCCCCOC(=O)c1ccccc1C(=O)OCCCCCCCCCCCC;O;-5.92;CCCCCCCCCCCCOC(=O)c1ccccc1C(=O)OCCCCCCCCCCCC
+solute;solvent;CC(F)(F)Cl;O;0.61;CC(F)(F)Cl
+solute;solvent;ClC1=C(Cl)C2(Cl)C3C4C=CC(C4)C3C1(Cl)C2(Cl)Cl;O;-3.75;ClC1=C(Cl)C2(Cl)C3C4C=CC(C4)C3C1(Cl)C2(Cl)Cl
+solute;solvent;Clc1ccc(-c2ccc(Cl)c(Cl)c2Cl)c(Cl)c1Cl;O;-3.6;Clc1ccc(-c2ccc(Cl)c(Cl)c2Cl)c(Cl)c1Cl
+solute;solvent;Nc1ccc([N+](=O)[O-])cc1Cl;O;-8.74;Nc1ccc([N+](=O)[O-])cc1Cl
+solute;solvent;C=CCC=CC;O;1.09;C=CCC=CC
+solute;solvent;O=P(c1ccccc1)(c1ccccc1)c1ccccc1;O;-17.04;O=P(c1ccccc1)(c1ccccc1)c1ccccc1
+solute;solvent;C=CCCCCCCCCCC;O;2.58;C=CCCCCCCCCCC
+solute;solvent;C=CC(C)(CCC=C(C)C)OC(=O)CC;O;-3.26;C=CC(C)(CCC=C(C)C)OC(=O)CC
+solute;solvent;Clc1ccc(Cl)c(-c2cc(Cl)ccc2Cl)c1;O;-2.55;Clc1ccc(Cl)c(-c2cc(Cl)ccc2Cl)c1
+solute;solvent;O=C(O)c1cccc(O)c1;O;-9.55;O=C(O)c1cccc(O)c1
+solute;solvent;CC1=CCC2C3C1C2(C)CCCC3(C)C;O;0.29;CC1=CCC2C3C1C2(C)CCCC3(C)C
+solute;solvent;CCCCCC=CC=O;O;-3.43;CCCCCC=CC=O
+solute;solvent;CCOC(C)(C)CC;O;-1.5;CCOC(C)(C)CC
+solute;solvent;O=C1c2ccccc2-c2ccccc21;O;-5.78;O=C1c2ccccc2-c2ccccc21
+solute;solvent;CCC(=O)CC(C)=O;O;-4.79;CCC(=O)CC(C)=O
+solute;solvent;CC(C)CC(=O)CC(=O)CC(C)C;O;-4.42;CC(C)CC(=O)CC(=O)CC(C)C
+solute;solvent;OCC(O)C(O)C(O)CO;O;-16.55;OCC(O)C(O)C(O)CO
+solute;solvent;CC1CCC(C)(C)C1;O;2.47;CC1CCC(C)(C)C1
+solute;solvent;Cc1c(Cl)c(Cl)c(Cl)c(Cl)c1Cl;O;-2.02;Cc1c(Cl)c(Cl)c(Cl)c(Cl)c1Cl
+solute;solvent;O=C(O)c1cccc(Cl)c1;O;-7.03;O=C(O)c1cccc(Cl)c1
+solute;solvent;CCC=CCCC=O;O;-3.19;CCC=CCCC=O
+solute;solvent;c1ccc2c(c1)OCCOCCOCCOc1ccccc1OCCOCCOCCO2;O;-23.63;c1ccc2c(c1)OCCOCCOCCOc1ccccc1OCCOCCOCCO2
+solute;solvent;CCNc1nc(NC(C)C)nc(OC)n1;O;-10.16;CCNc1nc(NC(C)C)nc(OC)n1
+solute;solvent;CC(=O)C(C)O;O;-4.29;CC(=O)C(C)O
+solute;solvent;Nc1ncnc2c1ncn2C1CC(O)C(CO)O1;O;-24.28;Nc1ncnc2c1ncn2C1CC(O)C(CO)O1
+solute;solvent;Cc1cc(O)ccc1[N+](=O)[O-];O;-9.89;Cc1cc(O)ccc1[N+](=O)[O-]
+solute;solvent;CCCCCCCCCCCCCCCCCC;O;4.15;CCCCCCCCCCCCCCCCCC
+solute;solvent;CC(=O)c1c(C)[nH]n(-c2ccccc2)c1=O;O;-9.89;CC(=O)c1c(C)[nH]n(-c2ccccc2)c1=O
+solute;solvent;COCCCNc1nc(NC(C)C)nc(SC)n1;O;-11.87;COCCCNc1nc(NC(C)C)nc(SC)n1
+solute;solvent;CCN(CC)N=O;O;-5.46;CCN(CC)N=O
+solute;solvent;CCCC(=O)OCCC(C)CCC=C(C)C;O;-2.73;CCCC(=O)OCCC(C)CCC=C(C)C
+solute;solvent;CCC=CCC;O;1.62;CCC=CCC
+solute;solvent;COC(=O)c1ccc(Br)cc1;O;-4.26;COC(=O)c1ccc(Br)cc1
+solute;solvent;CC1CCCCC1O;O;-4.79;CC1CCCCC1O
+solute;solvent;C=C1C=CC2(C(C)C)CC12;O;-0.12;C=C1C=CC2(C(C)C)CC12
+solute;solvent;O=O;O;2.06;O=O
+solute;solvent;C=CC(C)(CCC=C(C)C)OC(=O)CCC;O;-3.38;C=CC(C)(CCC=C(C)C)OC(=O)CCC
+solute;solvent;CCCC(O)CC;O;-4.06;CCCC(O)CC
+solute;solvent;O=C(O)CCCCCCCc1ccccc1;O;-8.98;O=C(O)CCCCCCCc1ccccc1
+solute;solvent;O=C1NC(=O)C(c2ccccc2)(c2ccccc2)N1;O;-16.67;O=C1NC(=O)C(c2ccccc2)(c2ccccc2)N1
+solute;solvent;CCCNCc1ccc(C)cc1;O;-5.73;CCCNCc1ccc(C)cc1
+solute;solvent;O=C(O)c1ccc(Br)cc1;O;-6.67;O=C(O)c1ccc(Br)cc1
+solute;solvent;[H][H];O;2.35;[H][H]
+solute;solvent;O=C(c1ccc(Br)cc1)N(O)c1ccc(Cl)cc1;O;-11.55;O=C(c1ccc(Br)cc1)N(O)c1ccc(Cl)cc1
+solute;solvent;CC12CCC(=O)C=C1CCC1C2C(O)CC2(C)C1CCC2(O)C(=O)CO;O;-25.44;CC12CCC(=O)C=C1CCC1C2C(O)CC2(C)C1CCC2(O)C(=O)CO
+solute;solvent;Clc1cc(Cl)c(-c2cc(Cl)c(Cl)c(Cl)c2Cl)cc1Cl;O;-3.53;Clc1cc(Cl)c(-c2cc(Cl)c(Cl)c(Cl)c2Cl)cc1Cl
+solute;solvent;CC1CCC(C(C)C)C(=O)C1;O;-2.53;CC1CCC(C(C)C)C(=O)C1
+solute;solvent;CCCCCC#N;O;-3.28;CCCCCC#N
+solute;solvent;FC(Cl)(Cl)C(F)(Cl)Cl;O;0.87;FC(Cl)(Cl)C(F)(Cl)Cl
+solute;solvent;OC1COC(O)C(O)C1O;O;-20.52;OC1COC(O)C(O)C1O
+solute;solvent;Oc1ccc(Cl)cc1Cl;O;-4.98;Oc1ccc(Cl)cc1Cl
+solute;solvent;O=C(O)c1ccc(CO)cc1;O;-13.34;O=C(O)c1ccc(CO)cc1
+solute;solvent;O=S1(=O)CCCC1;O;-8.61;O=S1(=O)CCCC1
+solute;solvent;O=[N+]([O-])c1ccc(O)c([N+](=O)[O-])c1O;O;-9.51;O=[N+]([O-])c1ccc(O)c([N+](=O)[O-])c1O
+solute;solvent;CCCCCCCCCC(C)C;O;4.04;CCCCCCCCCC(C)C
+solute;solvent;O=C=S;O;0.41;O=C=S
+solute;solvent;CCCCCCCCCCCCCCCCCCCCCCCCCC;O;5.59;CCCCCCCCCCCCCCCCCCCCCCCCCC
+solute;solvent;N#CCc1ccc(C(=O)O)cc1;O;-12.91;N#CCc1ccc(C(=O)O)cc1
+solute;solvent;O=C(O)CCc1ccccc1;O;-9.0;O=C(O)CCc1ccccc1
+solute;solvent;CCn1ccc(NS(=O)(=O)c2ccc(N)cc2)nc1=O;O;-20.65;CCn1ccc(NS(=O)(=O)c2ccc(N)cc2)nc1=O
+solute;solvent;C=CC1(C)CCC(C(C)C)=CC1C(=C)C;O;-0.42;C=CC1(C)CCC(C(C)C)=CC1C(=C)C
+solute;solvent;O=Nc1ccc2ccccc2c1O;O;-8.79;O=Nc1ccc2ccccc2c1O
+solute;solvent;C1COCCOCCOCCOCCOCCO1;O;-15.59;C1COCCOCCOCCOCCOCCO1
+solute;solvent;CC1=CC2C(CCC(C)=CCC1)C2(C)C;O;-0.52;CC1=CC2C(CCC(C)=CCC1)C2(C)C
+solute;solvent;COC(=O)c1cccc([N+](=O)[O-])c1;O;-6.79;COC(=O)c1cccc([N+](=O)[O-])c1
+solute;solvent;FC(C(F)(F)F)C(F)(F)F;O;2.01;FC(C(F)(F)F)C(F)(F)F
+solute;solvent;C=C1CCC2(C(C)C)CC12;O;0.49;C=C1CCC2(C(C)C)CC12
+solute;solvent;CCCCCC=CCC=CCCCCCCCC(=O)OC;O;-2.48;CCCCCC=CCC=CCCCCCCCC(=O)OC
+solute;solvent;O=C(CC(=O)C(F)(F)F)c1cccs1;O;-6.15;O=C(CC(=O)C(F)(F)F)c1cccs1
+solute;solvent;O=C(O)CCC(=O)O;O;-12.59;O=C(O)CCC(=O)O
+solute;solvent;Nc1ccc(S(=O)(=O)Nc2ccnn2-c2ccccc2)cc1;O;-21.21;Nc1ccc(S(=O)(=O)Nc2ccnn2-c2ccccc2)cc1
+solute;solvent;FCF;O;-0.33;FCF
+solute;solvent;C=C(C)C1CC=C(C)C(OC(C)=O)C1;O;-4.0;C=C(C)C1CC=C(C)C(OC(C)=O)C1
+solute;solvent;CCCCCCNCc1ccc(C)cc1;O;-4.97;CCCCCCNCc1ccc(C)cc1
+solute;solvent;Cc1ccccc1C(C)C;O;-0.82;Cc1ccccc1C(C)C
+solute;solvent;C1=CCC=CC1;O;-0.67;C1=CCC=CC1
+solute;solvent;O=C(O)c1ccc(I)cc1;O;-7.96;O=C(O)c1ccc(I)cc1
+solute;solvent;CN1C(C(=O)Nc2ccccn2)=C(O)c2ccccc2S1(=O)=O;O;-15.8;CN1C(C(=O)Nc2ccccn2)=C(O)c2ccccc2S1(=O)=O
+solute;solvent;CCNc1nc(Cl)nc(NC(C)(C)C#N)n1;O;-13.23;CCNc1nc(Cl)nc(NC(C)(C)C#N)n1
+solute;solvent;Cc1[nH]n(-c2ccccc2)c(=O)c1C(=O)c1ccccc1;O;-11.57;Cc1[nH]n(-c2ccccc2)c(=O)c1C(=O)c1ccccc1
+solute;solvent;c1ccc2c(c1)[nH]c1ccccc12;O;-7.18;c1ccc2c(c1)[nH]c1ccccc12
+solute;solvent;c1ccc2c(c1)OCCOCCOc1ccccc1OCCOCCO2;O;-18.25;c1ccc2c(c1)OCCOCCOc1ccccc1OCCOCCO2
+solute;solvent;CN1CCCC1c1cccnc1;O;-7.98;CN1CCCC1c1cccnc1
+solute;solvent;COC(=O)c1ccc(Cl)c(Cl)c1;O;-3.75;COC(=O)c1ccc(Cl)c(Cl)c1
+solute;solvent;O=C(O)C=CC(=O)O;O;-9.96;O=C(O)C=CC(=O)O
+solute;solvent;Brc1c(Br)c(Br)c(Br)c(Br)c1Br;O;-3.08;Brc1c(Br)c(Br)c(Br)c(Br)c1Br
+solute;solvent;O=C(O)c1cc([N+](=O)[O-])cc([N+](=O)[O-])c1;O;-11.32;O=C(O)c1cc([N+](=O)[O-])cc([N+](=O)[O-])c1
+solute;solvent;CCCCCCCCCCCCCC(=O)OCC;O;-7.32;CCCCCCCCCCCCCC(=O)OCC
+solute;solvent;CCCCCCCCCCCCCCCCO;O;-2.76;CCCCCCCCCCCCCCCCO
+solute;solvent;Clc1ccc(-c2ccccc2)cc1;O;-2.44;Clc1ccc(-c2ccccc2)cc1
+solute;solvent;CC(=O)CC(=O)C1=CC=C[SH]1(F)(F)F;O;-6.25;CC(=O)CC(=O)C1=CC=C[SH]1(F)(F)F
+solute;solvent;CCCCOCC(C)O;O;-5.73;CCCCOCC(C)O
+solute;solvent;Clc1c(Cl)c(Cl)c2ccccc2c1Cl;O;-2.69;Clc1c(Cl)c(Cl)c2ccccc2c1Cl
+solute;solvent;N#CCc1ccccc1;O;-5.05;N#CCc1ccccc1
+solute;solvent;Oc1ccccc1Br;O;-5.06;Oc1ccccc1Br
+solute;solvent;Oc1cccc(O)c1;O;-11.39;Oc1cccc(O)c1
+solute;solvent;O=S(=O)(c1ccccc1)c1ccccc1;O;-10.08;O=S(=O)(c1ccccc1)c1ccccc1
+solute;solvent;Clc1ccc(Br)cc1;O;-1.61;Clc1ccc(Br)cc1
+ 1,2,3,4-tetrachloro-5-(3,4-dichlorophenyl)benzene;oxidane; c1cc(c(cc1c2cc(c(c(c2Cl)Cl)Cl)Cl)Cl)Cl;O;-3.04;Clc1ccc(-c2cc(Cl)c(Cl)c(Cl)c2Cl)cc1Cl
+ cyclohexanamine;oxidane; C1CCC(CC1)N;O;-4.59;NC1CCCCC1
+ phenyl formate;oxidane; c1ccc(cc1)OC=O;O;-3.82;O=COc1ccccc1
+ 1,3-dichlorobenzene;oxidane; c1cc(cc(c1)Cl)Cl;O;-0.98;Clc1cccc(Cl)c1
+ (2R,5R)-2-methyl-5-(1-methylethenyl)-cyclohexanone;oxidane; C[C@@H]1CC[C@H](CC1=O)C(=C)C;O;-3.75;C=C(C)[C@@H]1CC[C@@H](C)C(=O)C1
+ 2-chlorophenol;oxidane; c1ccc(c(c1)O)Cl;O;-4.55;Oc1ccccc1Cl
+ 1-nitropentane;oxidane; CCCCC[N+](=O)[O-];O;-2.82;CCCCC[N+](=O)[O-]
+ cycloheptanol;oxidane; C1CCCC(CC1)O;O;-5.48;OC1CCCCCC1
+ 1-butoxybutane;oxidane; CCCCOCCCC;O;-0.83;CCCCOCCCC
+ methyl 4-nitrobenzoate;oxidane; COC(=O)c1ccc(cc1)[N+](=O)[O-];O;-6.88;COC(=O)c1ccc([N+](=O)[O-])cc1
+ 1-isopropyl-4-methyl-benzene;oxidane; Cc1ccc(cc1)C(C)C;O;-0.68;Cc1ccc(C(C)C)cc1
+ 2,3-dichlorodibenzo-p-dioxin;oxidane; c1ccc2c(c1)Oc3cc(c(cc3O2)Cl)Cl;O;-3.56;Clc1cc2c(cc1Cl)Oc1ccccc1O2
+ nonan-2-one;oxidane; CCCCCCCC(=O)C;O;-2.49;CCCCCCCC(C)=O
+ flurbiprofen;oxidane; C[C@@H](c1ccc(c(c1)F)c2ccccc2)C(=O)O;O;-8.42;C[C@H](C(=O)O)c1ccc(-c2ccccc2)c(F)c1
+ butane-1-thiol;oxidane; CCCCS;O;-0.99;CCCCS
+ 2,3-dimethylphenol;oxidane; Cc1cccc(c1C)O;O;-6.16;Cc1cccc(O)c1C
+ ethyl hexanoate;oxidane; CCCCCC(=O)OCC;O;-2.23;CCCCCC(=O)OCC
+ methylsulfonylmethane;oxidane; CS(=O)(=O)C;O;-10.08;CS(C)(=O)=O
+ ethyl butanoate;oxidane; CCCC(=O)OCC;O;-2.49;CCCC(=O)OCC
+ dibenzo-p-dioxin;oxidane; c1ccc2c(c1)Oc3ccccc3O2;O;-3.15;c1ccc2c(c1)Oc1ccccc1O2
+ diethyl butanedioate;oxidane; CCOC(=O)CCC(=O)OCC;O;-5.71;CCOC(=O)CCC(=O)OCC
+ 2,6-dimethylphenol;oxidane; Cc1cccc(c1O)C;O;-5.26;Cc1cccc(C)c1O
+ methyl 2,2-dimethylpropanoate;oxidane; CC(C)(C)C(=O)OC;O;-2.4;COC(=O)C(C)(C)C
+ 1,2-dibromoethane;oxidane; C(CBr)Br;O;-2.33;BrCCBr
+ isopentane;oxidane; CCC(C)C;O;2.38;CCC(C)C
+ 3-methyl-1H-indole;oxidane; Cc1c[nH]c2c1cccc2;O;-5.88;Cc1c[nH]c2ccccc12
+ hexanal;oxidane; CCCCCC=O;O;-2.81;CCCCCC=O
+ 1,2,3,5-tetrachlorobenzene;oxidane; c1c(cc(c(c1Cl)Cl)Cl)Cl;O;-1.62;Clc1cc(Cl)c(Cl)c(Cl)c1
+ 1,2-dichloroethane;oxidane; C(CCl)Cl;O;-1.79;ClCCCl
+ 2-phenylethanol;oxidane; c1ccc(cc1)CCO;O;-6.79;OCCc1ccccc1
+ 1-chlorohexane;oxidane; CCCCCCCl;O;0.0;CCCCCCCl
+ (2S,3R,4S,5R)-oxane-2,3,4,5-tetrol;oxidane; C1[C@H]([C@@H]([C@H]([C@H](O1)O)O)O)O;O;-20.52;O[C@H]1OC[C@@H](O)[C@H](O)[C@H]1O
+ 2-methylpent-1-ene;oxidane; CCCC(=C)C;O;1.47;C=C(C)CCC
+ butan-2-ol;oxidane; CC[C@H](C)O;O;-4.62;CC[C@H](C)O
+ benzyl bromide;oxidane; c1ccc(cc1)CBr;O;-2.38;BrCc1ccccc1
+ methylparathion;oxidane; COP(=S)(OC)Oc1ccc(cc1)[N+](=O)[O-];O;-7.19;COP(=S)(OC)Oc1ccc([N+](=O)[O-])cc1
+ [2-benzhydryloxyethyl]-dimethyl-amine;oxidane; CN(C)CCOC(c1ccccc1)c2ccccc2;O;-9.34;CN(C)CCOC(c1ccccc1)c1ccccc1
+ 1-cyclopropylethanone;oxidane; CC(=O)C1CC1;O;-4.61;CC(=O)C1CC1
+ nonanal;oxidane; CCCCCCCCC=O;O;-2.07;CCCCCCCCC=O
+ mesitylene;oxidane; Cc1cc(cc(c1)C)C;O;-0.9;Cc1cc(C)cc(C)c1
+ biphenyl;oxidane; c1ccc(cc1)c2ccccc2;O;-2.7;c1ccc(-c2ccccc2)cc1
+ 2-chloro-2-(difluoromethoxy)-1,1,1-trifluoro-ethane;oxidane; [C@@H](C(F)(F)F)(OC(F)F)Cl;O;0.1;FC(F)O[C@H](Cl)C(F)(F)F
+ 1-cyclohexylethanone;oxidane; CC(=O)C1CCCCC1;O;-3.9;CC(=O)C1CCCCC1
+ methylsulfanylethane;oxidane; CCSC;O;-1.5;CCSC
+ ibuprofen;oxidane; C[C@@H](c1ccc(cc1)CC(C)C)C(=O)O;O;-7.0;CC(C)Cc1ccc([C@H](C)C(=O)O)cc1
+ ketoprofen;oxidane; C[C@@H](c1cccc(c1)C(=O)c2ccccc2)C(=O)O;O;-10.78;C[C@H](C(=O)O)c1cccc(C(=O)c2ccccc2)c1
+ 4-hydroxybenzonitrile;oxidane; c1cc(ccc1C#N)O;O;-10.17;N#Cc1ccc(O)cc1
+ 2-ethylphenol;oxidane; CCc1ccccc1O;O;-5.66;CCc1ccccc1O
+ 3-methylbut-1-ene;oxidane; CC(C)C=C;O;1.83;C=CC(C)C
+ formaldehyde;oxidane; C=O;O;-2.75;C=O
+ sec-butylbenzene;oxidane; CC[C@H](C)c1ccccc1;O;-0.45;CC[C@H](C)c1ccccc1
+ decane;oxidane; CCCCCCCCCC;O;3.16;CCCCCCCCCC
+ 3-methylpentane;oxidane; CCC(C)CC;O;2.51;CCC(C)CC
+ 2-methylpropan-1-ol;oxidane; CC(C)CO;O;-4.5;CC(C)CO
+ acenaphthene;oxidane; c1cc2cccc3c2c(c1)CC3;O;-3.15;c1cc2c3c(cccc3c1)CC2
+ trimethoxymethane;oxidane; COC(OC)OC;O;-4.42;COC(OC)OC
+ 1-(2-hydroxyethylamino)-9,10-anthraquinone;oxidane; c1ccc2c(c1)C(=O)c3cccc(c3C2=O)NCCO;O;-14.21;O=C1c2ccccc2C(=O)c2c(NCCO)cccc21
+ pentylcyclopentane;oxidane; CCCCCC1CCCC1;O;2.55;CCCCCC1CCCC1
+ 3-ethylphenol;oxidane; CCc1cccc(c1)O;O;-6.25;CCc1cccc(O)c1
+ diethyl propanedioate;oxidane; CCOC(=O)CC(=O)OCC;O;-6.0;CCOC(=O)CC(=O)OCC
+ 1,4-diamino-9,10-anthracenedione;oxidane; c1ccc2c(c1)C(=O)c3c(ccc(c3C2=O)N)N;O;-11.85;Nc1ccc(N)c2c1C(=O)c1ccccc1C2=O
+ 3-methoxyphenol;oxidane; COc1cccc(c1)O;O;-7.66;COc1cccc(O)c1
+ benzyl chloride;oxidane; c1ccc(cc1)CCl;O;-1.93;ClCc1ccccc1
+ 1,1,1,2,2-pentachloroethane;oxidane; C(C(Cl)(Cl)Cl)(Cl)Cl;O;-1.23;ClC(Cl)C(Cl)(Cl)Cl
+ 1,1-dichloroethylene;oxidane; C=C(Cl)Cl;O;0.25;C=C(Cl)Cl
+ 1-bromoheptane;oxidane; CCCCCCCBr;O;0.34;CCCCCCCBr
+ 2,2-dimethylpentane;oxidane; CCCC(C)(C)C;O;2.88;CCCC(C)(C)C
+ pyrene;oxidane; c1cc2ccc3cccc4c3c2c(c1)cc4;O;-4.52;c1cc2ccc3cccc4ccc(c1)c2c34
+ hexyl acetate;oxidane; CCCCCCOC(=O)C;O;-2.26;CCCCCCOC(C)=O
+ 3,3-dimethylpentane;oxidane; CCC(C)(C)CC;O;2.56;CCC(C)(C)CC
+ 1,2-dimethoxybenzene;oxidane; COc1ccccc1OC;O;-5.33;COc1ccccc1OC
+ 3-nitrooxypropyl nitrate;oxidane; C(CO[N+](=O)[O-])CO[N+](=O)[O-];O;-4.8;O=[N+]([O-])OCCCO[N+](=O)[O-]
+ 3-hydroxybenzonitrile;oxidane; c1cc(cc(c1)O)C#N;O;-9.65;N#Cc1cccc(O)c1
+ 1,3,5-trichlorobenzene;oxidane; c1c(cc(cc1Cl)Cl)Cl;O;-0.78;Clc1cc(Cl)cc(Cl)c1
+ 2-isobutylpyrazine;oxidane; CC(C)Cc1cnccn1;O;-5.04;CC(C)Cc1cnccn1
+ 1-pyrrolidin-1-ylethanone;oxidane; CC(=O)N1CCCC1;O;-9.8;CC(=O)N1CCCC1
+ 4-nitrophenol;oxidane; c1cc(ccc1[N+](=O)[O-])O;O;-10.64;O=[N+]([O-])c1ccc(O)cc1
+ 3-chloropyridine;oxidane; c1cc(cnc1)Cl;O;-4.01;Clc1cccnc1
+ (2E)-hex-2-enal;oxidane; CCC/C=C/C=O;O;-3.68;CCC/C=C/C=O
+ pyrrole;oxidane; c1cc[nH]c1;O;-4.78;c1cc[nH]c1
+ 1,2,3,7-tetrachlorodibenzo-p-dioxin;oxidane; c1cc2c(cc1Cl)Oc3cc(c(c(c3O2)Cl)Cl)Cl;O;-3.84;Clc1ccc2c(c1)Oc1cc(Cl)c(Cl)c(Cl)c1O2
+ 2,3,7,8-tetrachlorodibenzo-p-dioxin;oxidane; c1c2c(cc(c1Cl)Cl)Oc3cc(c(cc3O2)Cl)Cl;O;-3.37;Clc1cc2c(cc1Cl)Oc1cc(Cl)c(Cl)cc1O2
+ 2-hydroxybenzaldehyde;oxidane; c1ccc(c(c1)C=O)O;O;-4.68;O=Cc1ccccc1O
+ styrene;oxidane; C=Cc1ccccc1;O;-1.24;C=Cc1ccccc1
+ pentan-2-ol;oxidane; CCC[C@@H](C)O;O;-4.39;CCC[C@@H](C)O
+ 4-ethylphenol;oxidane; CCc1ccc(cc1)O;O;-6.13;CCc1ccc(O)cc1
+ 3-methylbutanoic acid;oxidane; CC(C)CC(=O)O;O;-6.09;CC(C)CC(=O)O
+ 1,2,3,4,7,8-hexachlorodibenzo-p-dioxin;oxidane; c1c2c(cc(c1Cl)Cl)Oc3c(c(c(c(c3Cl)Cl)Cl)Cl)O2;O;-3.71;Clc1cc2c(cc1Cl)Oc1c(Cl)c(Cl)c(Cl)c(Cl)c1O2
+ 9,10-dihydroanthracene;oxidane; c1ccc2c(c1)Cc3ccccc3C2;O;-3.78;c1ccc2c(c1)Cc1ccccc1C2
+ 1-ethyl-2-methylbenzene;oxidane; CCc1ccccc1C;O;-0.85;CCc1ccccc1C
+ 2,2,5-trimethylhexane;oxidane; CC(C)CCC(C)(C)C;O;2.93;CC(C)CCC(C)(C)C
+ 2,5-dimethylphenol;oxidane; Cc1ccc(c(c1)O)C;O;-5.91;Cc1ccc(C)c(O)c1
+ decan-1-ol;oxidane; CCCCCCCCCCO;O;-3.64;CCCCCCCCCCO
+ 2-chloroaniline;oxidane; c1ccc(c(c1)N)Cl;O;-4.91;Nc1ccccc1Cl
+ 1,2,4-trimethylbenzene;oxidane; Cc1ccc(c(c1)C)C;O;-0.86;Cc1ccc(C)c(C)c1
+ cyclohexene;oxidane; C1CCC=CC1;O;0.14;C1=CCCCC1
+ glycerol;oxidane; C(C(CO)O)O;O;-13.43;OCC(O)CO
+ naphthalen-2-amine;oxidane; c1ccc2cc(ccc2c1)N;O;-7.47;Nc1ccc2ccccc2c1
+ 2-chlorosyringaldehyde;oxidane; COc1cc(c(c(c1O)OC)Cl)C=O;O;-7.78;COc1cc(C=O)c(Cl)c(OC)c1O
+ N-methyl-N-(2,2,2-trifluoroethyl)aniline;oxidane; CN(CC(F)(F)F)c1ccccc1;O;-1.92;CN(CC(F)(F)F)c1ccccc1
+ 1,2,3,4-tetrachloro-5-(3,4,5-trichlorophenyl)benzene;oxidane; c1c(cc(c(c1Cl)Cl)Cl)c2cc(c(c(c2Cl)Cl)Cl)Cl;O;-3.17;Clc1cc(-c2cc(Cl)c(Cl)c(Cl)c2Cl)cc(Cl)c1Cl
+ 2-[(1R)-1-methylpropyl]-4,6-dinitro-phenolate;oxidane; CC[C@@H](C)c1cc(cc(c1O)[N+](=O)[O-])[N+](=O)[O-];O;-6.23;CC[C@@H](C)c1cc([N+](=O)[O-])cc([N+](=O)[O-])c1O
+ trimethoxymethylbenzene;oxidane; COC(c1ccccc1)(OC)OC;O;-4.04;COC(OC)(OC)c1ccccc1
+ 4-propylguaiacol;oxidane; CCCc1ccc(c(c1)OC)O;O;-5.26;CCCc1ccc(O)c(OC)c1
+ nonan-1-ol;oxidane; CCCCCCCCCO;O;-3.88;CCCCCCCCCO
+ 2-methylpentan-2-ol;oxidane; CCCC(C)(C)O;O;-3.92;CCCC(C)(C)O
+ 1,2,3-trimethylbenzene;oxidane; Cc1cccc(c1C)C;O;-1.21;Cc1cccc(C)c1C
+ 1-(p-tolyl)ethanone;oxidane; Cc1ccc(cc1)C(=O)C;O;-4.7;CC(=O)c1ccc(C)cc1
+ 2-methoxyphenol;oxidane; COc1ccccc1O;O;-5.94;COc1ccccc1O
+ 2-acetoxyethyl acetate;oxidane; CC(=O)OCCOC(=O)C;O;-6.34;CC(=O)OCCOC(C)=O
+ pentylbenzene;oxidane; CCCCCc1ccccc1;O;-0.23;CCCCCc1ccccc1
+ pentyl propanoate;oxidane; CCCCCOC(=O)CC;O;-2.11;CCCCCOC(=O)CC
+ 2-chloro-1,1,1-trimethoxy-ethane;oxidane; COC(CCl)(OC)OC;O;-4.59;COC(CCl)(OC)OC
+ 1-chlorobutane;oxidane; CCCCCl;O;-0.16;CCCCCl
+ naphthalen-2-ol;oxidane; c1ccc2cc(ccc2c1)O;O;-8.11;Oc1ccc2ccccc2c1
+ cyclohexanone;oxidane; C1CCC(=O)CC1;O;-4.91;O=C1CCCCC1
+ propyl butanoate;oxidane; CCCC(=O)OCCC;O;-2.28;CCCOC(=O)CCC
+ non-1-ene;oxidane; CCCCCCCC=C;O;2.06;C=CCCCCCCC
+ 1,4-dimethylnaphthalene;oxidane; Cc1ccc(c2c1cccc2)C;O;-2.82;Cc1ccc(C)c2ccccc12
+ quinone;oxidane; C1=CC(=O)C=CC1=O;O;-6.5;O=C1C=CC(=O)C=C1
+ isopropenylbenzene;oxidane; CC(=C)c1ccccc1;O;-1.24;C=C(C)c1ccccc1
+ 1-methylpyrrole;oxidane; Cn1cccc1;O;-2.89;Cn1cccc1
+ 3-nitroaniline;oxidane; c1cc(cc(c1)[N+](=O)[O-])N;O;-8.84;Nc1cccc([N+](=O)[O-])c1
+ hexyl nitrate;oxidane; CCCCCCO[N+](=O)[O-];O;-1.66;CCCCCCO[N+](=O)[O-]
+ naphthalen-1-amine;oxidane; c1ccc2c(c1)cccc2N;O;-7.28;Nc1cccc2ccccc12
+ ethyl benzoate;oxidane; CCOC(=O)c1ccccc1;O;-3.64;CCOC(=O)c1ccccc1
+ 1,2,3,4,7-pentachlorodibenzo-p-dioxin;oxidane; c1cc2c(cc1Cl)Oc3c(c(c(c(c3Cl)Cl)Cl)Cl)O2;O;-4.15;Clc1ccc2c(c1)Oc1c(Cl)c(Cl)c(Cl)c(Cl)c1O2
+ 1,2,3-trichlorobenzene;oxidane; c1cc(c(c(c1)Cl)Cl)Cl;O;-1.24;Clc1cccc(Cl)c1Cl
+ 1,1-dichloroethane;oxidane; CC(Cl)Cl;O;-0.84;CC(Cl)Cl
+ 2,4-dimethylpentan-3-one;oxidane; CC(C)C(=O)C(C)C;O;-2.74;CC(C)C(=O)C(C)C
+ 2-methylhexane;oxidane; CCCCC(C)C;O;2.93;CCCCC(C)C
+ 2,7-dichlorodibenzo-p-dioxin;oxidane; c1cc2c(cc1Cl)Oc3ccc(cc3O2)Cl;O;-3.67;Clc1ccc2c(c1)Oc1ccc(Cl)cc1O2
+ 2,3,4-trimethylpentane;oxidane; CC(C)C(C)C(C)C;O;2.56;CC(C)C(C)C(C)C
+ N,N-dimethylbenzamide;oxidane; CN(C)C(=O)c1ccccc1;O;-9.29;CN(C)C(=O)c1ccccc1
+ 4-methoxyaniline;oxidane; COc1ccc(cc1)N;O;-7.48;COc1ccc(N)cc1
+ 1,2,3,4-tetrachlorobenzene;oxidane; c1cc(c(c(c1Cl)Cl)Cl)Cl;O;-1.34;Clc1ccc(Cl)c(Cl)c1Cl
+ isobutylbenzene;oxidane; CC(C)Cc1ccccc1;O;0.16;CC(C)Cc1ccccc1
+ 2-chloropyridine;oxidane; c1ccnc(c1)Cl;O;-4.39;Clc1ccccn1
+ 1-amino-4-hydroxy-9,10-anthracenedione;oxidane; c1ccc2c(c1)C(=O)c3c(ccc(c3C2=O)O)N;O;-9.53;Nc1ccc(O)c2c1C(=O)c1ccccc1C2=O
+ nonane;oxidane; CCCCCCCCC;O;3.13;CCCCCCCCC
+ 4-chloro-3-methyl-phenol;oxidane; Cc1cc(ccc1Cl)O;O;-6.79;Cc1cc(O)ccc1Cl
+ 1,1-diphenylethene;oxidane; C=C(c1ccccc1)c2ccccc2;O;-2.78;C=C(c1ccccc1)c1ccccc1
+ 2-bromo-2-chloro-1,1,1-trifluoro-ethane;oxidane; [C@@H](C(F)(F)F)(Cl)Br;O;-0.11;FC(F)(F)[C@H](Cl)Br
+ 2,3-dimethylbutane;oxidane; CC(C)C(C)C;O;2.34;CC(C)C(C)C
+ (2R,3R,4R,5R)-Hexan-1,2,3,4,5,6-hexol;oxidane; C([C@H]([C@H]([C@@H]([C@@H](CO)O)O)O)O)O;O;-23.62;OC[C@@H](O)[C@@H](O)[C@H](O)[C@H](O)CO
+ 1-benzylimidazole;oxidane; c1ccc(cc1)Cn2ccnc2;O;-7.63;c1ccc(Cn2ccnc2)cc1
+ methyl cyclopropanecarboxylate;oxidane; COC(=O)C1CC1;O;-4.1;COC(=O)C1CC1
+ 4-propylphenol;oxidane; CCCc1ccc(cc1)O;O;-5.21;CCCc1ccc(O)cc1
+ 2-propoxyethanol;oxidane; CCCOCCO;O;-6.4;CCCOCCO
+ 1,2-dichloropropane;oxidane; C[C@@H](CCl)Cl;O;-1.27;C[C@H](Cl)CCl
+ 1-iodoheptane;oxidane; CCCCCCCI;O;0.27;CCCCCCCI
+ hept-1-ene;oxidane; CCCCCC=C;O;1.66;C=CCCCCC
+ 2,4-dimethylphenol;oxidane; Cc1ccc(c(c1)C)O;O;-6.01;Cc1ccc(O)c(C)c1
+ methanesulfonyl chloride;oxidane; CS(=O)(=O)Cl;O;-4.87;CS(=O)(=O)Cl
+ 2,6-dimethoxyphenol;oxidane; COc1cccc(c1O)OC;O;-6.96;COc1cccc(OC)c1O
+ 3-ethylpyridine;oxidane; CCc1cccnc1;O;-4.59;CCc1cccnc1
+ pentanenitrile;oxidane; CCCCC#N;O;-3.52;CCCCC#N
+ isopentyl formate;oxidane; CC(C)CCOC=O;O;-2.13;CC(C)CCOC=O
+ hept-1-yne;oxidane; CCCCCC#C;O;0.6;C#CCCCCC
+ diethoxymethoxybenzene;oxidane; CCOC(OCC)Oc1ccccc1;O;-5.23;CCOC(OCC)Oc1ccccc1
+ 2-(2,3-dimethylphenyl)aminobenzoic acid;oxidane; Cc1cccc(c1C)Nc2ccccc2C(=O)O;O;-6.78;Cc1cccc(Nc2ccccc2C(=O)O)c1C
+ 2-amino-9,10-anthraquinone;oxidane; c1ccc2c(c1)C(=O)c3ccc(cc3C2=O)N;O;-11.53;Nc1ccc2c(c1)C(=O)c1ccccc1C2=O
+ 4-(1-Methylethenyl)-1-cyclohexene-1-carboxaldehyde;oxidane; CC(=C)[C@H]1CCC(=CC1)C=O;O;-4.09;C=C(C)[C@@H]1CC=C(C=O)CC1
+ pyridine-4-carbonitrile;oxidane; c1cnccc1C#N;O;-6.02;N#Cc1ccncc1
+ 2-methyltetrahydrofuran;oxidane; C[C@H]1CCCO1;O;-3.3;C[C@H]1CCCO1
+ 2-nitrophenol;oxidane; c1ccc(c(c1)[N+](=O)[O-])O;O;-4.58;O=[N+]([O-])c1ccccc1O
+ 2-methoxyaniline;oxidane; COc1ccccc1N;O;-6.12;COc1ccccc1N
+ indane;oxidane; c1ccc2c(c1)CCC2;O;-1.46;c1ccc2c(c1)CCC2
+ 2,6-dimethylnaphthalene;oxidane; Cc1ccc2cc(ccc2c1)C;O;-2.63;Cc1ccc2cc(C)ccc2c1
+ 4-methylpentan-2-ol;oxidane; C[C@H](CC(C)C)O;O;-3.73;CC(C)C[C@@H](C)O
+ 1-ethylnaphthalene;oxidane; CCc1cccc2c1cccc2;O;-2.4;CCc1cccc2ccccc12
+ Amitriptyline;oxidane; CN(C)CCC=C1c2ccccc2CCc3c1cccc3;O;-7.43;CN(C)CCC=C1c2ccccc2CCc2ccccc21
+ 1,4-dichlorobutane;oxidane; C(CCCl)CCl;O;-2.32;ClCCCCCl
+ phenylmethanol;oxidane; c1ccc(cc1)CO;O;-6.62;OCc1ccccc1
+ 2,2-dichloro-1,1-difluoro-1-methoxy-ethane;oxidane; COC(C(Cl)Cl)(F)F;O;-1.12;COC(F)(F)C(Cl)Cl
+ 2-chlorodibenzo-p-dioxin;oxidane; c1ccc2c(c1)Oc3ccc(cc3O2)Cl;O;-3.1;Clc1ccc2c(c1)Oc1ccccc1O2
+ cumene;oxidane; CC(C)c1ccccc1;O;-0.3;CC(C)c1ccccc1
+ 1,2,3,4,5-pentachloro-6-(2,3,4,5,6-pentachlorophenyl)benzene;oxidane; c1(c(c(c(c(c1Cl)Cl)Cl)Cl)Cl)c2c(c(c(c(c2Cl)Cl)Cl)Cl)Cl;O;-2.98;Clc1c(Cl)c(Cl)c(-c2c(Cl)c(Cl)c(Cl)c(Cl)c2Cl)c(Cl)c1Cl
+ 4-tert-butylphenol;oxidane; CC(C)(C)c1ccc(cc1)O;O;-5.91;CC(C)(C)c1ccc(O)cc1
+ isopentyl acetate;oxidane; CC(C)CCOC(=O)C;O;-2.21;CC(=O)OCCC(C)C
+ 2,3-dimethylnaphthalene;oxidane; Cc1cc2ccccc2cc1C;O;-2.78;Cc1cc2ccccc2cc1C
+ 1,1,2,3,3,3-hexafluoroprop-1-ene;oxidane; C(=C(F)F)(C(F)(F)F)F;O;2.93;FC(F)=C(F)C(F)(F)F
+ 1-methylimidazole;oxidane; Cn1ccnc1;O;-8.41;Cn1ccnc1
+ 1,1,1-trimethoxyethane;oxidane; CC(OC)(OC)OC;O;-4.42;COC(C)(OC)OC
+ 1,2,3,4-tetrachlorodibenzo-p-dioxin;oxidane; c1ccc2c(c1)Oc3c(c(c(c(c3Cl)Cl)Cl)Cl)O2;O;-3.81;Clc1c(Cl)c(Cl)c2c(c1Cl)Oc1ccccc1O2
+ 1,3,5-trichloro-2-phenyl-benzene;oxidane; c1ccc(cc1)c2c(cc(cc2Cl)Cl)Cl;O;-2.16;Clc1cc(Cl)c(-c2ccccc2)c(Cl)c1
+ 1,3,5-trichloro-2-(2,6-dichlorophenyl)benzene;oxidane; c1cc(c(c(c1)Cl)c2c(cc(cc2Cl)Cl)Cl)Cl;O;-1.96;Clc1cc(Cl)c(-c2c(Cl)cccc2Cl)c(Cl)c1
+ 2,6-dimethylaniline;oxidane; Cc1cccc(c1N)C;O;-5.21;Cc1cccc(C)c1N
+ (2S,5R)-2-isopropyl-5-methylcyclohexanone;oxidane; C[C@@H]1CC[C@H](C(=O)C1)C(C)C;O;-2.53;CC(C)[C@@H]1CC[C@@H](C)CC1=O
+ 2-methylpropanal;oxidane; CC(C)C=O;O;-2.86;CC(C)C=O
+ 1,3-dimethylnaphthalene;oxidane; Cc1cc(c2ccccc2c1)C;O;-2.47;Cc1cc(C)c2ccccc2c1
+ hexa-1,5-diene;oxidane; C=CCCC=C;O;1.01;C=CCCC=C
+ 4-methyl-1H-imidazole;oxidane; Cc1c[nH]cn1;O;-10.27;Cc1c[nH]cn1
+ 1,1,1,2-tetramethoxyethane;oxidane; COCC(OC)(OC)OC;O;-5.73;COCC(OC)(OC)OC
+ dimethyl sulfate;oxidane; COS(=O)(=O)OC;O;-5.1;COS(=O)(=O)OC
+ methylcyclopentane;oxidane; CC1CCCC1;O;1.59;CC1CCCC1
+ quinoline;oxidane; c1ccc2c(c1)cccn2;O;-5.72;c1ccc2ncccc2c1
+ 2-butoxyethanol;oxidane; CCCCOCCO;O;-6.25;CCCCOCCO
+ hexylbenzene;oxidane; CCCCCCc1ccccc1;O;-0.04;CCCCCCc1ccccc1
+ propyl propanoate;oxidane; CCCOC(=O)CC;O;-2.44;CCCOC(=O)CC
+ 4-methyl-2-methoxyphenol;oxidane; Cc1ccc(c(c1)OC)O;O;-5.8;COc1cc(C)ccc1O
+ 2,2-dimethylbutane;oxidane; CCC(C)(C)C;O;2.51;CCC(C)(C)C
+ 2-nitroaniline;oxidane; c1ccc(c(c1)N)[N+](=O)[O-];O;-7.37;Nc1ccccc1[N+](=O)[O-]
+ 3-methylbutan-1-ol;oxidane; CC(C)CCO;O;-4.42;CC(C)CCO
+ hexan-1-amine;oxidane; CCCCCCN;O;-3.95;CCCCCCN
+ oct-2-enal;oxidane; CCCCC/C=C/C=O;O;-3.43;CCCCC/C=C/C=O
+ diphenyl ether;oxidane; c1ccc(cc1)Oc2ccccc2;O;-2.87;c1ccc(Oc2ccccc2)cc1
+ 4-methylbenzaldehyde;oxidane; Cc1ccc(cc1)C=O;O;-4.27;Cc1ccc(C=O)cc1
+ 1,1,2,2-tetrachloroethane;oxidane; C(C(Cl)Cl)(Cl)Cl;O;-2.37;ClC(Cl)C(Cl)Cl
+ 2,6-dichlorosyringaldehyde;oxidane; COc1c(c(c(c(c1Cl)C=O)Cl)OC)O;O;-8.68;COc1c(O)c(OC)c(Cl)c(C=O)c1Cl
+ pyridine-3-carbaldehyde;oxidane; c1cc(cnc1)C=O;O;-7.1;O=Cc1cccnc1
+ octan-1-amine;oxidane; CCCCCCCCN;O;-3.65;CCCCCCCCN
+ 1-iodohexane;oxidane; CCCCCCI;O;0.08;CCCCCCI
+ 3-chloroaniline;oxidane; c1cc(cc(c1)Cl)N;O;-5.82;Nc1cccc(Cl)c1
+ 1,3-dichloro-2-(2,6-dichlorophenyl)benzene;oxidane; c1cc(c(c(c1)Cl)c2c(cccc2Cl)Cl)Cl;O;-2.28;Clc1cccc(Cl)c1-c1c(Cl)cccc1Cl
+ 1-(4-methoxyphenyl)ethanone;oxidane; CC(=O)c1ccc(cc1)OC;O;-4.4;COc1ccc(C(C)=O)cc1
+ (1R)-2,2,2-trichloro-1-dimethoxyphosphoryl-ethanol;oxidane; COP(=O)([C@H](C(Cl)(Cl)Cl)O)OC;O;-12.74;COP(=O)(OC)[C@@H](O)C(Cl)(Cl)Cl
+ 1-(3-pyridyl)ethanone;oxidane; CC(=O)c1cccnc1;O;-8.26;CC(=O)c1cccnc1
+ 1,2-bis(trifluoromethyl)benzene;oxidane; c1ccc(c(c1)C(F)(F)F)C(F)(F)F;O;1.07;FC(F)(F)c1ccccc1C(F)(F)F
+ carbon tetrachloride;oxidane; C(Cl)(Cl)(Cl)Cl;O;0.08;ClC(Cl)(Cl)Cl
+ 1,4-dichloro-2-phenyl-benzene;oxidane; c1ccc(cc1)c2cc(ccc2Cl)Cl;O;-2.46;Clc1ccc(Cl)c(-c2ccccc2)c1
+ 1-methylpiperidine;oxidane; CN1CCCCC1;O;-3.88;CN1CCCCC1
+ propylcyclopentane;oxidane; CCCC1CCCC1;O;2.13;CCCC1CCCC1
+ propylbenzene;oxidane; CCCc1ccccc1;O;-0.53;CCCc1ccccc1
+ isobutyl 2-methylpropanoate;oxidane; CC(C)COC(=O)C(C)C;O;-1.69;CC(C)COC(=O)C(C)C
+ but-2-enal;oxidane; C/C=C/C=O;O;-4.22;C/C=C/C=O
+ 2-chloro-1-(2,4-dichlorophenyl)ethenyl diethyl phosphate;oxidane; CCOP(=O)(OCC)O/C(=C/Cl)/c1ccc(cc1Cl)Cl;O;-7.07;CCOP(=O)(OCC)O/C(=C/Cl)c1ccc(Cl)cc1Cl
+ 1-methylcyclohexene;oxidane; CC1=CCCCC1;O;0.67;CC1=CCCCC1
+ ethyl pentanoate;oxidane; CCCCC(=O)OCC;O;-2.49;CCCCC(=O)OCC
+ 1,2,3,4-tetrachloro-5-(2,3,4-trichlorophenyl)benzene;oxidane; c1cc(c(c(c1c2cc(c(c(c2Cl)Cl)Cl)Cl)Cl)Cl)Cl;O;-4.4;Clc1ccc(-c2cc(Cl)c(Cl)c(Cl)c2Cl)c(Cl)c1Cl
+ 3,5-dichloro-2,6-dimethoxyphenol;oxidane; COc1c(cc(c(c1O)OC)Cl)Cl;O;-6.44;COc1c(Cl)cc(Cl)c(OC)c1O
+ 2-(nitrooxy)ethan-1-ol;oxidane; C(CO[N+](=O)[O-])O;O;-8.18;O=[N+]([O-])OCCO
+ 3,4-dimethylphenol;oxidane; Cc1ccc(cc1C)O;O;-6.5;Cc1ccc(O)cc1C
+ 1-(4-pyridyl)ethanone;oxidane; CC(=O)c1ccncc1;O;-7.62;CC(=O)c1ccncc1
+ 1,2,4,5-tetrachlorobenzene;oxidane; c1c(c(cc(c1Cl)Cl)Cl)Cl;O;-1.34;Clc1cc(Cl)c(Cl)cc1Cl
+ 1,2,2-trifluoroethoxybenzene;oxidane; c1ccc(cc1)O[C@@H](C(F)F)F;O;-1.29;FC(F)[C@@H](F)Oc1ccccc1
+ isopropyl formate;oxidane; CC(C)OC=O;O;-2.02;CC(C)OC=O
+ 3-methylheptane;oxidane; CCCC[C@@H](C)CC;O;2.97;CCCC[C@@H](C)CC
+ methoxyethane;oxidane; CCOC;O;-2.1;CCOC
+ methyl 2-chloroacetate;oxidane; COC(=O)CCl;O;-4.0;COC(=O)CCl
+ (3R)-3,7-Dimethylocta-1,6-dien-3-yl acetate;oxidane; CC(=CCC[C@](C)(C=C)OC(=O)C)C;O;-2.49;C=C[C@@](C)(CCC=C(C)C)OC(C)=O
+ methyl cyclohexanecarboxylate;oxidane; COC(=O)C1CCCCC1;O;-3.3;COC(=O)C1CCCCC1
+ isopropyl acetate;oxidane; CC(C)OC(=O)C;O;-2.64;CC(=O)OC(C)C
+ 2-ethylpyridine;oxidane; CCc1ccccn1;O;-4.33;CCc1ccccn1
+ 3,5-dimethylphenol;oxidane; Cc1cc(cc(c1)O)C;O;-6.27;Cc1cc(C)cc(O)c1
+ cyclohexanol;oxidane; C1CCC(CC1)O;O;-5.46;OC1CCCCC1
+ phenanthrene;oxidane; c1ccc2c(c1)ccc3c2cccc3;O;-3.88;c1ccc2c(c1)ccc1ccccc12
+ naphthalen-1-ol;oxidane; c1ccc2c(c1)cccc2O;O;-7.67;Oc1cccc2ccccc12
+ 2-chloro-2-methyl-propane;oxidane; CC(C)(C)Cl;O;1.09;CC(C)(C)Cl
+ 4-chlorophenol;oxidane; c1cc(ccc1O)Cl;O;-7.03;Oc1ccc(Cl)cc1
+ 1-chloroheptane;oxidane; CCCCCCCCl;O;0.29;CCCCCCCCl
+ 3-nitrophenol;oxidane; c1cc(cc(c1)O)[N+](=O)[O-];O;-9.62;O=[N+]([O-])c1cccc(O)c1
+ heptan-1-amine;oxidane; CCCCCCCN;O;-3.79;CCCCCCCN
+ 2-fluorophenol;oxidane; c1ccc(c(c1)O)F;O;-5.29;Oc1ccccc1F
+ hexanamide;oxidane; CCCCCC(=O)N;O;-9.31;CCCCCC(N)=O
+ pentan-3-ol;oxidane; CCC(CC)O;O;-4.35;CCC(O)CC
+ 1-chlorodibenzo-p-dioxin;oxidane; c1ccc2c(c1)Oc3cccc(c3O2)Cl;O;-3.52;Clc1cccc2c1Oc1ccccc1O2
+ 1-methyl-3-nitro-benzene;oxidane; Cc1cccc(c1)[N+](=O)[O-];O;-3.45;Cc1cccc([N+](=O)[O-])c1
+ 1,1,1-trifluoro-2,2,2-trimethoxyethane;oxidane; COC(C(F)(F)F)(OC)OC;O;-0.8;COC(OC)(OC)C(F)(F)F
+ undecan-2-one;oxidane; CCCCCCCCCC(=O)C;O;-2.15;CCCCCCCCCC(C)=O
+ methyl 4-methoxybenzoate;oxidane; COc1ccc(cc1)C(=O)OC;O;-5.33;COC(=O)c1ccc(OC)cc1
+ N,N-dimethyl-4-nitro-benzamide;oxidane; CN(C)C(=O)c1ccc(cc1)[N+](=O)[O-];O;-11.95;CN(C)C(=O)c1ccc([N+](=O)[O-])cc1
+ 2-ethoxyethyl acetate;oxidane; CCOCCOC(=O)C;O;-5.31;CCOCCOC(C)=O
+ isobutyl formate;oxidane; CC(C)COC=O;O;-2.22;CC(C)COC=O
+ 3-phenylpropan-1-ol;oxidane; c1ccc(cc1)CCCO;O;-6.92;OCCCc1ccccc1
+ 1-propoxypropane;oxidane; CCCOCCC;O;-1.16;CCCOCCC
+ 3-methoxyaniline;oxidane; COc1cccc(c1)N;O;-7.29;COc1cccc(N)c1
+ 2-methylpentan-3-ol;oxidane; CC[C@H](C(C)C)O;O;-3.88;CC[C@@H](O)C(C)C
+ 6-isopropyl-3-methyl-1-cyclohex-2-enone;oxidane; CC1=CC(=O)[C@@H](CC1)C(C)C;O;-4.51;CC1=CC(=O)[C@H](C(C)C)CC1
+ 2-bromo-2-methyl-propane;oxidane; CC(C)(C)Br;O;0.84;CC(C)(C)Br
+ 2-methylbut-2-ene;oxidane; CC=C(C)C;O;1.31;CC=C(C)C
+ 1,2,4-trichlorobenzene;oxidane; c1cc(c(cc1Cl)Cl)Cl;O;-1.12;Clc1ccc(Cl)c(Cl)c1
+ heptanal;oxidane; CCCCCCC=O;O;-2.67;CCCCCCC=O
+ N-butylbutan-1-amine;oxidane; CCCCNCCCC;O;-3.24;CCCCNCCCC
+ [(2S)-butan-2-yl] nitrate;oxidane; CC[C@H](C)O[N+](=O)[O-];O;-1.82;CC[C@H](C)O[N+](=O)[O-]
+ tert-butylbenzene;oxidane; CC(C)(C)c1ccccc1;O;-0.44;CC(C)(C)c1ccccc1
+ 1-butoxy-2-propanol;oxidane; CCCCOC[C@H](C)O;O;-5.73;CCCCOC[C@H](C)O
+ ethyl propanoate;oxidane; CCC(=O)OCC;O;-2.68;CCOC(=O)CC
+ hexan-3-ol;oxidane; CCC[C@H](CC)O;O;-4.06;CCC[C@@H](O)CC
+ 2-methylbutan-1-ol;oxidane; CC[C@@H](C)CO;O;-4.42;CC[C@@H](C)CO
+ N,N-dimethylformamide;oxidane; CN(C)C=O;O;-7.81;CN(C)C=O
+ 3-chlorophenol;oxidane; c1cc(cc(c1)Cl)O;O;-6.62;Oc1cccc(Cl)c1
+ (2E)-3,7-dimethylocta-2,6-dien-1-ol;oxidane; CC(=CCC/C(=C/CO)/C)C;O;-4.45;CC(C)=CCC/C(C)=C/CO
+ 1,2,3,4-tetrachloro-5-(2,3,4,6-tetrachlorophenyl)benzene;oxidane; c1c(c(c(c(c1Cl)Cl)Cl)Cl)c2c(cc(c(c2Cl)Cl)Cl)Cl;O;-4.61;Clc1cc(-c2c(Cl)cc(Cl)c(Cl)c2Cl)c(Cl)c(Cl)c1Cl
+ 1,2,4,5-tetrachloro-3-(3,4-dichlorophenyl)benzene;oxidane; c1cc(c(cc1c2c(c(cc(c2Cl)Cl)Cl)Cl)Cl)Cl;O;-4.38;Clc1ccc(-c2c(Cl)c(Cl)cc(Cl)c2Cl)cc1Cl
+ (1R,2S,5R)-2-isopropyl-5-methylcyclohexanol;oxidane; C[C@@H]1CC[C@H]([C@@H](C1)O)C(C)C;O;-3.2;CC(C)[C@@H]1CC[C@@H](C)C[C@H]1O
+ 4-methylpentan-2-one;oxidane; CC(C)CC(=O)C;O;-3.05;CC(=O)CC(C)C
+ propionamide;oxidane; CCC(=O)N;O;-9.4;CCC(N)=O
+ N,N-diethylethanamine;oxidane; CCN(CC)CC;O;-3.22;CCN(CC)CC
+ hept-2-ene;oxidane; CCCC/C=C/C;O;1.68;C/C=C/CCCC
+ oct-1-yne;oxidane; CCCCCCC#C;O;0.71;C#CCCCCCC
+ 4-fluorophenol;oxidane; c1cc(ccc1O)F;O;-6.19;Oc1ccc(F)cc1
+ methylsulfinylmethane;oxidane; CS(=O)C;O;-9.28;CS(C)=O
+ isobutyl acetate;oxidane; CC(C)COC(=O)C;O;-2.36;CC(=O)OCC(C)C
+ 2,3-dimethylpentane;oxidane; CC[C@@H](C)C(C)C;O;2.52;CC[C@@H](C)C(C)C
+ 2-bromo-1,1,1,2-tetrafluoro-ethane;oxidane; [C@@H](C(F)(F)F)(F)Br;O;0.5;F[C@H](Br)C(F)(F)F
+ N-isopropylpropan-2-amine;oxidane; CC(C)NC(C)C;O;-3.22;CC(C)NC(C)C
+ 4-chloroaniline;oxidane; c1cc(ccc1N)Cl;O;-5.9;Nc1ccc(Cl)cc1
+ 3-methylbutan-2-one;oxidane; CC(C)C(=O)C;O;-3.24;CC(=O)C(C)C
+ 2,3-dimethylpyridine;oxidane; Cc1cccnc1C;O;-4.82;Cc1cccnc1C
+ propyl formate;oxidane; CCCOC=O;O;-2.48;CCCOC=O
+ pyridine-3-carbonitrile;oxidane; c1cc(cnc1)C#N;O;-6.75;N#Cc1cccnc1
+ isoprene;oxidane; CC(=C)C=C;O;0.68;C=CC(=C)C
+ 2,5-dimethyltetrahydrofuran;oxidane; C[C@H]1CC[C@@H](O1)C;O;-2.92;C[C@H]1CC[C@H](C)O1
+ 2-iodophenol;oxidane; c1ccc(c(c1)O)I;O;-6.2;Oc1ccccc1I
+ 3,3,3-trimethoxypropanenitrile;oxidane; COC(CC#N)(OC)OC;O;-6.4;COC(CC#N)(OC)OC
+ pyridine-4-carbaldehyde;oxidane; c1cnccc1C=O;O;-7.0;O=Cc1ccncc1
+ butylbenzene;oxidane; CCCCc1ccccc1;O;-0.4;CCCCc1ccccc1
+ trifluoromethylbenzene;oxidane; c1ccc(cc1)C(F)(F)F;O;-0.25;FC(F)(F)c1ccccc1
+ 1,2,3-trichloro-5-(2,5-dichlorophenyl)benzene;oxidane; c1cc(c(cc1Cl)c2cc(c(c(c2)Cl)Cl)Cl)Cl;O;-3.61;Clc1ccc(Cl)c(-c2cc(Cl)c(Cl)c(Cl)c2)c1
+ 1,2,4-trichlorodibenzo-p-dioxin;oxidane; c1ccc2c(c1)Oc3c(cc(c(c3O2)Cl)Cl)Cl;O;-4.05;Clc1cc(Cl)c2c(c1Cl)Oc1ccccc1O2
+ 2-methylbenzaldehyde;oxidane; Cc1ccccc1C=O;O;-3.93;Cc1ccccc1C=O
+ diethyl (2R)-2-dimethoxyphosphinothioylsulfanylbutanedioate;oxidane; CCOC(=O)C[C@H](C(=O)OCC)SP(=S)(OC)OC;O;-8.15;CCOC(=O)C[C@@H](SP(=S)(OC)OC)C(=O)OCC
+ 2,3-dimethylbuta-1,3-diene;oxidane; CC(=C)C(=C)C;O;0.4;C=C(C)C(=C)C
+ 1-bromooctane;oxidane; CCCCCCCCBr;O;0.52;CCCCCCCCBr
+ methyl 2,2,2-trifluoroacetate;oxidane; COC(=O)C(F)(F)F;O;-1.1;COC(=O)C(F)(F)F
+ pent-2-ene;oxidane; CC/C=C\C;O;1.31;C/C=C\CC
+ methyl 2-cyanoacetate;oxidane; COC(=O)CC#N;O;-6.72;COC(=O)CC#N
+ 1,4-dimethylcyclohexane;oxidane; CC1CCC(CC1)C;O;2.11;CC1CCC(C)CC1
+ oct-1-ene;oxidane; CCCCCCC=C;O;1.92;C=CCCCCCC
+ methyl methanesulfonate;oxidane; COS(=O)(=O)C;O;-4.87;COS(C)(=O)=O
+ penta-1,4-diene;oxidane; C=CCC=C;O;0.93;C=CCC=C
+ 3,4-dichlorophenol;oxidane; c1cc(c(cc1O)Cl)Cl;O;-7.29;Oc1ccc(Cl)c(Cl)c1
+ 1-bromohexane;oxidane; CCCCCCBr;O;0.18;CCCCCCBr
+ 1-methylnaphthalene;oxidane; Cc1cccc2c1cccc2;O;-2.44;Cc1cccc2ccccc12
+ 1,2,3,4-tetrachloro-5-phenyl-benzene;oxidane; c1ccc(cc1)c2cc(c(c(c2Cl)Cl)Cl)Cl;O;-3.48;Clc1cc(-c2ccccc2)c(Cl)c(Cl)c1Cl
+ (2R,3R,4S,5S,6R)-6-(hydroxymethyl)tetrahydropyran-2,3,4,5-tetrol;oxidane; C([C@@H]1[C@H]([C@@H]([C@H]([C@@H](O1)O)O)O)O)O;O;-25.47;OC[C@H]1O[C@@H](O)[C@H](O)[C@@H](O)[C@@H]1O
+ 9H-fluorene;oxidane; c1ccc-2c(c1)Cc3c2cccc3;O;-3.35;c1ccc2c(c1)Cc1ccccc1-2
+ endosulfan alpha;oxidane; C1[C@@H]2[C@H](COS(=O)O1)[C@@]3(C(=C([C@]2(C3(Cl)Cl)Cl)Cl)Cl)Cl;O;-4.23;O=S1OC[C@@H]2[C@H](CO1)[C@]1(Cl)C(Cl)=C(Cl)[C@@]2(Cl)C1(Cl)Cl
+ decan-2-one;oxidane; CCCCCCCCC(=O)C;O;-2.34;CCCCCCCCC(C)=O
+ 1,3-dichloropropane;oxidane; C(CCl)CCl;O;-1.89;ClCCCCl
+ 2-ethoxyethanol;oxidane; CCOCCO;O;-6.69;CCOCCO
+ (1S,5R)-2-methyl-5-(1-methylethenyl)-2-cyclohexen-1-ol;oxidane; CC1=CC[C@H](C[C@@H]1O)C(=C)C;O;-4.44;C=C(C)[C@@H]1CC=C(C)[C@@H](O)C1
+ 2-methylthiophene;oxidane; Cc1cccs1;O;-1.38;Cc1cccs1
+ 1-chloro-2-phenyl-benzene;oxidane; c1ccc(cc1)c2ccccc2Cl;O;-2.69;Clc1ccccc1-c1ccccc1
+ cyclohepta-1,3,5-triene;oxidane; C1C=CC=CC=C1;O;-0.99;C1=CC=CCC=C1
+ 1,3-bis-(nitrooxy)butane;oxidane; C[C@@H](CCO[N+](=O)[O-])O[N+](=O)[O-];O;-4.29;C[C@@H](CCO[N+](=O)[O-])O[N+](=O)[O-]
+ 1,2,3,4,6,7,8,9-octachlorodibenzo-p-dioxin;oxidane; c12c(c(c(c(c1Cl)Cl)Cl)Cl)Oc3c(c(c(c(c3Cl)Cl)Cl)Cl)O2;O;-4.53;Clc1c(Cl)c(Cl)c2c(c1Cl)Oc1c(Cl)c(Cl)c(Cl)c(Cl)c1O2
+ 2-methylbutan-2-ol;oxidane; CCC(C)(C)O;O;-4.43;CCC(C)(C)O
+ 3-methylhexane;oxidane; CCC[C@H](C)CC;O;2.71;CCC[C@H](C)CC
+ (2Z)-3,7-dimethylocta-2,6-dien-1-ol;oxidane; CC(=CCC/C(=C\CO)/C)C;O;-4.78;CC(C)=CCC/C(C)=C\CO
+ 1-ethyl-4-methyl-benzene;oxidane; CCc1ccc(cc1)C;O;-0.95;CCc1ccc(C)cc1
+ 2-isopropylsulfanylpropane;oxidane; CC(C)SC(C)C;O;-1.21;CC(C)SC(C)C
+methane;water;C;O;2.0;C
+ethane;water;CC;O;1.83;CC
+n-propane;water;CCC;O;1.96;CCC
+n-butane;water;CCCC;O;2.08;CCCC
+n-pentane;water;CCCCC;O;2.33;CCCCC
+n-hexane;water;CCCCCC;O;2.49;CCCCCC
+n-heptane;water;CCCCCCC;O;2.62;CCCCCCC
+n-octane;water;CCCCCCCC;O;2.89;CCCCCCCC
+2-methylpropane;water;CC(C)C;O;2.32;CC(C)C
+2,2-dimethylpropane;water;CC(C)(C)C;O;2.5;CC(C)(C)C
+2-methylpentane;water;CCCC(C)C;O;2.52;CCCC(C)C
+2,4-dimethylpentane;water;CC(C)CC(C)C;O;2.88;CC(C)CC(C)C
+2,2,4-trimethylpentane;water;CC(C)CC(C)(C)C;O;2.85;CC(C)CC(C)(C)C
+cyclopropane;water;C1CC1;O;0.75;C1CC1
+cyclopentane;water;C1CCCC1;O;1.2;C1CCCC1
+cyclohexane;water;C1CCCCC1;O;1.23;C1CCCCC1
+methylcyclohexane;water;CC1CCCCC1;O;1.71;CC1CCCCC1
+cis-1,2-dimethylcyclohexane;water;C[C@@H]1CCCC[C@@H]1C;O;1.58;C[C@H]1CCCC[C@H]1C
+ethene;water;C=C;O;1.27;C=C
+propene;water;CC=C;O;1.27;C=CC
+s-trans-1,3-butadiene;water;C=CC=C;O;0.61;C=CC=C
+2-methylpropene;water;CC(C)=C;O;1.16;C=C(C)C
+1-butene;water;CCC=C;O;1.38;C=CCC
+cyclopentene;water;C1CC=CC1;O;0.56;C1=CCCC1
+1-pentene;water;CCCC=C;O;1.66;C=CCCC
+E-2-pentene;water;CC/C=C/C;O;1.34;C/C=C/CC
+1-hexene;water;CCCCC=C;O;1.68;C=CCCCC
+ethyne;water;C#C;O;-0.01;C#C
+propyne;water;CC#C;O;-0.31;C#CC
+1-butyne;water;CCC#C;O;-0.16;C#CCC
+1-pentyne;water;CCCC#C;O;0.01;C#CCCC
+1-hexyne;water;CCCCC#C;O;0.29;C#CCCCC
+benzene;water;c1ccccc1;O;-0.87;c1ccccc1
+toluene;water;Cc1ccccc1;O;-0.89;Cc1ccccc1
+ethylbenzene;water;CCc1ccccc1;O;-0.8;CCc1ccccc1
+o-xylene;water;Cc1ccccc1C;O;-0.9;Cc1ccccc1C
+m-xylene;water;Cc1cccc(c1)C;O;-0.84;Cc1cccc(C)c1
+p-xylene;water;Cc1ccc(cc1)C;O;-0.81;Cc1ccc(C)cc1
+naphthalene;water;c1ccc2ccccc2c1;O;-2.39;c1ccc2ccccc2c1
+anthracene;water;c1ccc2cc3ccccc3cc2c1;O;-4.23;c1ccc2cc3ccccc3cc2c1
+methanol;water;CO;O;-5.11;CO
+ethanol;water;CCO;O;-5.01;CCO
+1,2-ethanediol;water;OCCO;O;-9.3;OCCO
+1-propanol;water;CCCO;O;-4.83;CCCO
+isopropanol;water;CC(C)O;O;-4.76;CC(C)O
+1-butanol;water;CCCCO;O;-4.72;CCCCO
+t-butanol;water;CC(C)(C)O;O;-4.51;CC(C)(C)O
+cyclopentanol;water;C1CCC(C1)O;O;-5.49;OC1CCCC1
+1-pentanol;water;CCCCCO;O;-4.47;CCCCCO
+phenol;water;c1ccc(cc1)O;O;-6.62;Oc1ccccc1
+1-hexanol;water;CCCCCCO;O;-4.36;CCCCCCO
+o-cresol;water;Cc1ccccc1O;O;-5.87;Cc1ccccc1O
+m-cresol;water;Cc1cccc(c1)O;O;-5.49;Cc1cccc(O)c1
+p-cresol;water;Cc1ccc(cc1)O;O;-6.14;Cc1ccc(O)cc1
+1-heptanol;water;CCCCCCCO;O;-4.24;CCCCCCCO
+dimethylether;water;COC;O;-1.92;COC
+tetrahydrofuran;water;C1CCOC1;O;-3.47;C1CCOC1
+1,4-dioxane;water;C1COCCO1;O;-5.05;C1COCCO1
+diethylether;water;CCOCC;O;-1.76;CCOCC
+methylpropylether;water;CCCOC;O;-1.66;CCCOC
+methylisopropylether;water;COC(C)C;O;-2.01;COC(C)C
+1,2-dimethoxyethane;water;COCCOC;O;-4.84;COCCOC
+t-butylmethylether;water;COC(C)(C)C;O;-2.21;COC(C)(C)C
+anisole;water;COc1ccccc1;O;-2.45;COc1ccccc1
+acetaldehyde;water;CC=O;O;-3.5;CC=O
+propanal;water;CCC=O;O;-3.44;CCC=O
+butanal;water;CCCC=O;O;-3.18;CCCC=O
+pentanal;water;CCCCC=O;O;-3.03;CCCCC=O
+benzaldehyde;water;c1ccc(cc1)C=O;O;-4.02;O=Cc1ccccc1
+acetone;water;CC(=O)C;O;-3.85;CC(C)=O
+2-butanone;water;CCC(C)=O;O;-3.64;CCC(C)=O
+cyclopentanone;water;C1CCC(=O)C1;O;-4.68;O=C1CCCC1
+2-pentanone;water;CCCC(C)=O;O;-3.53;CCCC(C)=O
+3-pentanone;water;CCC(=O)CC;O;-3.41;CCC(=O)CC
+2-hexanone;water;CCCCC(C)=O;O;-3.29;CCCCC(C)=O
+3,3-dimethylbutanone;water;CC(=O)C(C)(C)C;O;-2.89;CC(=O)C(C)(C)C
+2-heptanone;water;CCCCCC(C)=O;O;-3.04;CCCCCC(C)=O
+4-heptanone;water;CCCC(=O)CCC;O;-2.93;CCCC(=O)CCC
+acetophenone;water;CC(=O)c1ccccc1;O;-4.58;CC(=O)c1ccccc1
+5-nonanone;water;CCCCC(=O)CCCC;O;-2.67;CCCCC(=O)CCCC
+aceticacid;water;CC(O)=O;O;-6.7;CC(=O)O
+propanoicacid;water;CCC(O)=O;O;-6.47;CCC(=O)O
+butanoicacid;water;CCCC(O)=O;O;-6.36;CCCC(=O)O
+pentanoicacid;water;CCCCC(O)=O;O;-6.16;CCCCC(=O)O
+hexanoicacid;water;CCCCCC(O)=O;O;-6.21;CCCCCC(=O)O
+methylformate;water;COC=O;O;-2.78;COC=O
+ethylformate;water;CCOC=O;O;-2.65;CCOC=O
+methylacetate;water;COC(C)=O;O;-3.32;COC(C)=O
+methylpropanoate;water;CCC(=O)OC;O;-2.93;CCC(=O)OC
+ethylacetate;water;CCOC(C)=O;O;-3.1;CCOC(C)=O
+methylbutanoate;water;CCCC(=O)OC;O;-2.83;CCCC(=O)OC
+propylacetate;water;CCCOC(C)=O;O;-2.86;CCCOC(C)=O
+methylpentanoate;water;CCCCC(=O)OC;O;-2.57;CCCCC(=O)OC
+butylacetate;water;CCCCOC(C)=O;O;-2.55;CCCCOC(C)=O
+methylhexanoate;water;CCCCCC(=O)OC;O;-2.49;CCCCCC(=O)OC
+pentylacetate;water;CCCCCOC(C)=O;O;-2.45;CCCCCOC(C)=O
+ethylamine;water;CCN;O;-4.5;CCN
+dimethylamine;water;CNC;O;-4.29;CNC
+azetidine;water;C1CNC1;O;-5.56;C1CNC1
+propylamine;water;CCCN;O;-4.39;CCCN
+trimethylamine;water;CN(C)C;O;-3.23;CN(C)C
+pyrrolidine;water;C1CCNC1;O;-5.48;C1CCNC1
+piperazine;water;C1CNCCN1;O;-7.4;C1CNCCN1
+butylamine;water;CCCCN;O;-4.29;CCCCN
+diethylamine;water;CCNCC;O;-4.07;CCNCC
+N-methylpiperazine;water;CN1CCNCC1;O;-7.77;CN1CCNCC1
+pentylamine;water;CCCCCN;O;-4.1;CCCCCN
+N,N'-dimethylpiperazine;water;CN1CCN(C)CC1;O;-7.58;CN1CCN(C)CC1
+dipropylamine;water;CCCNCCC;O;-3.66;CCCNCCC
+pyridine;water;c1ccncc1;O;-4.7;c1ccncc1
+2-methylpyrazine;water;Cc1cnccn1;O;-5.57;Cc1cnccn1
+aniline;water;c1ccc(cc1)N;O;-5.49;Nc1ccccc1
+2-methylpyridine;water;Cc1ccccn1;O;-4.63;Cc1ccccn1
+3-methylpyridine;water;Cc1cccnc1;O;-4.77;Cc1cccnc1
+4-methylpyridine;water;Cc1ccncc1;O;-4.94;Cc1ccncc1
+N-methylaniline;water;CNc1ccccc1;O;-4.68;CNc1ccccc1
+2,4-dimethylpyridine;water;Cc1ccnc(c1)C;O;-4.86;Cc1ccnc(C)c1
+2,5-dimethylpyridine;water;Cc1ccc(nc1)C;O;-4.72;Cc1ccc(C)nc1
+2,6-dimethylpyridine;water;Cc1cccc(n1)C;O;-4.6;Cc1cccc(C)n1
+acetonitrile;water;CC#N;O;-3.89;CC#N
+propionitrile;water;CCC#N;O;-3.85;CCC#N
+butanonitrile;water;CCCC#N;O;-3.64;CCCC#N
+benzonitrile;water;c1ccc(cc1)C#N;O;-4.1;N#Cc1ccccc1
+nitroethane;water;CC[N+]([O-])=O;O;-3.71;CC[N+](=O)[O-]
+1-nitropropane;water;CCC[N+](=O)[O-];O;-3.34;CCC[N+](=O)[O-]
+2-nitropropane;water;CC(C)[N+](=O)[O-];O;-3.14;CC(C)[N+](=O)[O-]
+1-nitrobutane;water;CCCC[N+](=O)[O-];O;-3.08;CCCC[N+](=O)[O-]
+nitrobenzene;water;c1ccc(cc1)[N+](=O)[O-];O;-4.12;O=[N+]([O-])c1ccccc1
+2-methyl-1-nitrobenzene;water;Cc1ccccc1[N+]([O-])=O;O;-3.59;Cc1ccccc1[N+](=O)[O-]
+methanethiol;water;CS;O;-1.24;CS
+ethanethiol;water;CCS;O;-1.3;CCS
+1-propanethiol;water;CCCS;O;-1.05;CCCS
+thiophenol;water;Sc1ccccc1;O;-2.55;Sc1ccccc1
+dimethylsulfide;water;CSC;O;-1.54;CSC
+dimethyldisulfide;water;CSSC;O;-1.83;CSSC
+diethylsulfide;water;CCSCC;O;-1.43;CCSCC
+dipropylsulfide;water;CCCSCCC;O;-1.27;CCCSCCC
+thioanisole;water;CSc1ccccc1;O;-2.73;CSc1ccccc1
+allylalcohol;water;OCC=C;O;-5.08;C=CCO
+2-methoxyethanol;water;COCCO;O;-6.77;COCCO
+2-methoxyethanamine;water;COCCN;O;-6.55;COCCN
+butenyne;water;C=CC#C;O;0.04;C#CC=C
+morpholine;water;C1COCCN1;O;-7.17;C1COCCN1
+m-hydroxybenzaldehyde;water;Oc1cccc(C=O)c1;O;-9.51;O=Cc1cccc(O)c1
+p-hydroxybenzaldehyde;water;Oc1ccc(C=O)cc1;O;-10.48;O=Cc1ccc(O)cc1
+fluoromethane;water;CF;O;-0.22;CF
+1,1-difluoroethane;water;CC(F)F;O;-0.11;CC(F)F
+fluorobenzene;water;c1ccc(cc1)F;O;-0.78;Fc1ccccc1
+chloromethane;water;CCl;O;-0.56;CCl
+dichloromethane;water;C(Cl)Cl;O;-1.36;ClCCl
+chloroform;water;C(Cl)(Cl)Cl;O;-1.07;ClC(Cl)Cl
+chloroethane;water;CCCl;O;-0.63;CCCl
+1,1,1-trichloroethane;water;CC(Cl)(Cl)Cl;O;-0.25;CC(Cl)(Cl)Cl
+1,1,2-trichloroethane;water;C(C(Cl)Cl)Cl;O;-1.95;ClCC(Cl)Cl
+1-chloropropane;water;CCCCl;O;-0.27;CCCCl
+2-chloropropane;water;CC(C)Cl;O;-0.25;CC(C)Cl
+chloroethene;water;ClC=C;O;-0.59;C=CCl
+3-chloropropene;water;ClCC=C;O;-0.57;C=CCCl
+Z-1,2-dichloroethene;water;Cl\C=C/Cl;O;-1.17;Cl/C=C\Cl
+E-1,2-dichloroethene;water;Cl\C=C\Cl;O;-0.76;Cl/C=C/Cl
+trichloroethene;water;ClC=C(Cl)Cl;O;-0.39;ClC=C(Cl)Cl
+chlorobenzene;water;c1ccc(cc1)Cl;O;-1.12;Clc1ccccc1
+1,2-dichlorobenzene;water;c1ccc(c(c1)Cl)Cl;O;-1.36;Clc1ccccc1Cl
+1,4-dichlorobenzene;water;c1cc(ccc1Cl)Cl;O;-1.01;Clc1ccc(Cl)cc1
+bromomethane;water;CBr;O;-0.82;CBr
+dibromomethane;water;C(Br)Br;O;-2.11;BrCBr
+bromoform;water;C(Br)(Br)Br;O;-1.98;BrC(Br)Br
+bromoethane;water;CCBr;O;-0.7;CCBr
+1-bromopropane;water;CCCBr;O;-0.56;CCCBr
+2-bromopropane;water;CC(C)Br;O;-0.48;CC(C)Br
+1-bromobutane;water;CCCCBr;O;-0.41;CCCCBr
+1-bromopentane;water;CCCCCBr;O;-0.08;CCCCCBr
+bromobenzene;water;c1ccc(cc1)Br;O;-1.46;Brc1ccccc1
+p-dibromobenzene;water;Brc1ccc(Br)cc1;O;-2.3;Brc1ccc(Br)cc1
+bromotrifluoromethane;water;FC(F)(F)Br;O;1.79;FC(F)(F)Br
+chlorofluoromethane;water;FCCl;O;-0.77;FCCl
+chlorodifluoromethane;water;FC(F)Cl;O;-0.5;FC(F)Cl
+tetrafluoromethane;water;C(F)(F)(F)F;O;3.16;FC(F)(F)F
+1-bromo-1-chloro-2,2,2-trifluoroethane;water;FC(F)(F)C(Cl)Br;O;-0.13;FC(F)(F)C(Cl)Br
+1-bromo-2-chloroethane;water;ClCCBr;O;-1.95;ClCCBr
+1-bromo-1,2,2,2-tetrafluoroethane;water;FC(Br)C(F)(F)F;O;0.52;FC(Br)C(F)(F)F
+tetrachloroethene;water;ClC(Cl)=C(Cl)Cl;O;0.05;ClC(Cl)=C(Cl)Cl
+1-chloro-2,2,2-trifluoroethane;water;FC(F)(F)CCl;O;0.06;FC(F)(F)CCl
+1,1,2-trichloro-1,2,2-trifluoroethane;water;FC(F)(Cl)C(F)(Cl)Cl;O;1.77;FC(F)(Cl)C(F)(Cl)Cl
+2,2,2-trifluoroethanol;water;C(C(F)(F)F)O;O;-4.31;OCC(F)(F)F
+1-chloro-2,2,2-trifluoroethyldifluoromethylether;water;FC(F)OC(Cl)C(F)(F)F;O;0.11;FC(F)OC(Cl)C(F)(F)F
+1,1,1-trifluoropropan-2-ol;water;C[C@@H](C(F)(F)F)O;O;-4.16;C[C@H](O)C(F)(F)F
+1,1,1,3,3,3-hexafluoropropan-2-ol;water;OC(C(F)(F)F)C(F)(F)F;O;-3.77;OC(C(F)(F)F)C(F)(F)F
+bis(2-chloroethyl)sulfide;water;ClCCSCCCl;O;-3.92;ClCCSCCCl
+2,2,2-trifluorethylvinylether;water;FC(F)(F)COC=C;O;-0.12;C=COCC(F)(F)F
+p-bromophenol;water;Oc1ccc(Br)cc1;O;-7.13;Oc1ccc(Br)cc1
+ammonia;water;N;O;-4.29;N
+water;water;O;O;-6.31;O
+phosphine;water;P;O;0.6;P
+hydrogensulfide;water;S;O;-0.7;S
+trimethylphosphate;water;CO[P](=O)(OC)OC;O;-8.7;COP(=O)(OC)OC
+triethylphosphate;water;CCOP(=O)(OCC)OCC;O;-7.8;CCOP(=O)(OCC)OCC
+tripropylphosphate;water;CCCO[P](=O)(OCCC)OCCC;O;-6.1;CCCOP(=O)(OCCC)OCCC
+diethyldisulfide;water;CCSSCC;O;-1.63;CCSSCC
+piperidine;water;C1CCNCC1;O;-5.11;C1CCNCC1
+N-methylmorpholine;water;CN1CCOCC1;O;-6.34;CN1CCOCC1
+methylamine;water;CN;O;-4.56;CN
+hydrazine;water;NN;O;-6.26;NN
+2-ethylpyrazine;water;CCc1cnccn1;O;-5.51;CCc1cnccn1
+acetamide;water;CC(=O)N;O;-9.71;CC(N)=O
+Z-N-methylacetamide;water;CC(=O)NC;O;-10.0;CNC(C)=O
+1-octanol;water;CCCCCCCCO;O;-4.09;CCCCCCCCO
+octanal;water;CCCCCCCC=O;O;-2.29;CCCCCCCC=O
+methyloctanoate;water;CCCCCCCC(=O)OC;O;-2.04;CCCCCCCC(=O)OC
+2-octanone;water;CCCCCCC(C)=O;O;-2.88;CCCCCCC(C)=O
+methylbenzoate;water;COC(=O)c1ccccc1;O;-3.91;COC(=O)c1ccccc1
+isopropylether;water;CC(C)OC(C)C;O;-0.53;CC(C)OC(C)C
+tetrahydropyran;water;C1CCOCC1;O;-3.12;C1CCOCC1
+thiophene;water;c1ccsc1;O;-1.42;c1ccsc1
+ethylphenylether;water;CCOc1ccccc1;O;-2.22;CCOc1ccccc1
+hydrogen;water;[H];O;2.33;[H]
+1,1-dimethyl-3-phenylurea;water;CN(C)C(=O)Nc1ccccc1;O;-9.63;CN(C)C(=O)Nc1ccccc1
+9-methyladenine;water;Cn1cnc2c(N)ncnc12;O;-13.6;Cn1cnc2c(N)ncnc21
+1-methylthymine;water;CN1C=C(C)C(=O)NC1=O;O;-10.4;Cc1cn(C)c(=O)[nH]c1=O
+hexafluoroethane;water;FC(F)(F)C(F)(F)F;O;3.94;FC(F)(F)C(F)(F)F
+octafluoropropane;water;FC(F)(F)C(F)(F)C(F)(F)F;O;4.28;FC(F)(F)C(F)(F)C(F)(F)F
+1,1,1,2-tetrachloroethane;water;C(C(Cl)(Cl)Cl)Cl;O;-1.15;ClCC(Cl)(Cl)Cl
+hexachloroethane;water;C(C(Cl)(Cl)Cl)(Cl)(Cl)Cl;O;-1.4;ClC(Cl)(Cl)C(Cl)(Cl)Cl
+2-chlorobutane;water;CC[C@H](C)Cl;O;0.07;CC[C@H](C)Cl
+1-chloropentane;water;CCCCCCl;O;0.07;CCCCCCl
+2-chloropentane;water;CCCC(C)Cl;O;0.07;CCCC(C)Cl
+o-chlorotoluene;water;Cc1ccccc1Cl;O;-1.15;Cc1ccccc1Cl
+2,2'-dichlorobiphenyl;water;Clc1ccccc1c2ccccc2Cl;O;-2.73;Clc1ccccc1-c1ccccc1Cl
+2,3-dichlorobiphenyl;water;Clc1cccc(c2ccccc2)c1Cl;O;-2.45;Clc1cccc(-c2ccccc2)c1Cl
+2,2',3'-trichlorobiphenyl;water;Clc1cccc(c1Cl)c2ccccc2Cl;O;-1.99;Clc1ccccc1-c1cccc(Cl)c1Cl
+3-bromopropene;water;BrCC=C;O;-0.86;C=CCBr
+1-bromo-isobutane;water;CC(C)CBr;O;-0.03;CC(C)CBr
+bromotoluene;water;Cc1ccccc1Br;O;-2.37;Cc1ccccc1Br
+p-bromotoluene;water;Cc1ccc(Br)cc1;O;-1.39;Cc1ccc(Br)cc1
+difluorodichloromethane;water;FC(F)(Cl)Cl;O;1.69;FC(F)(Cl)Cl
+fluorotrichloromethane;water;FC(Cl)(Cl)Cl;O;0.82;FC(Cl)(Cl)Cl
+bromotrichloromethane;water;ClC(Cl)(Cl)Br;O;-0.93;ClC(Cl)(Cl)Br
+chloropentaflouroethane;water;FC(F)(F)C(F)(F)Cl;O;2.86;FC(F)(F)C(F)(F)Cl
+3,5-dibromo-4-hydroxybenzonitrile;water;Oc1c(Br)cc(cc1Br)C#N;O;-9.0;N#Cc1cc(Br)c(O)c(Br)c1
+2,6-dichlorobenzonitrile;water;Clc1cccc(Cl)c1C#N;O;-5.22;N#Cc1c(Cl)cccc1Cl
+2,6-dichlorothiobenzamide;water;NC(=S)c1c(Cl)cccc1Cl;O;-10.81;NC(=S)c1c(Cl)cccc1Cl
+4-amino-3,5,6-trichloropyridine-2-carboxylicacid;water;Nc1c(Cl)c(Cl)nc(C(O)=O)c1Cl;O;-11.96;Nc1c(Cl)c(Cl)nc(C(=O)O)c1Cl
+2,2-dichloroethenyldimethylphosphate;water;COP(=O)(OC)OCC(Cl)Cl;O;-6.61;COP(=O)(OC)OCC(Cl)Cl
+methyl3-methyl-4-thiomethoxyphenylthiophosphate;water;COC1=CC=C(C=C1)CCC(=O)OC;O;-6.92;COC(=O)CCc1ccc(OC)cc1
+diethyl2,4-dichlorophenylthiophosphate;water;CC[S](CC)(c1ccc(Cl)cc1Cl)=[P]([O-])([O-])[O-];O;-3.86;CC[S](CC)(c1ccc(Cl)cc1Cl)=P([O-])([O-])[O-]
+dimethyl5-(4-chloro)bicyclo[3.2.0]heptylphosphate;water;COP(=O)(OC)OC1=C(Cl)C2C=CCC12;O;-7.28;COP(=O)(OC)OC1=C(Cl)C2C=CCC12
+dimethyl4-nitrophenylthiophosphate;water;C[S](C)(c1ccc(cc1)[N+]([O-])=O)=[P]([O-])([O-])[O-];O;-7.62;C[S](C)(c1ccc([N+](=O)[O-])cc1)=P([O-])([O-])[O-]
+O-ethylO'-4-bromo-2-chlorophenylS-propylphosphorothioate;water;CCOP(=S)(O)OC1=C(C=C(C=C1)Br)Cl;O;-4.09;CCOP(O)(=S)Oc1ccc(Br)cc1Cl
+dimethyl2,4,5-trichlorophenylthiophosphate;water;C[S](C)(c1cc(Cl)c(Cl)cc1Cl)=[P]([O-])([O-])[O-];O;-5.06;C[S](C)(c1cc(Cl)c(Cl)cc1Cl)=P([O-])([O-])[O-]
+dimethyl4-bromo-2,5-dichlorophenylthiophosphate;water;C[S](C)(c1cc(Cl)c(Br)cc1Cl)=[P]([O-])([O-])[O-];O;-5.7;C[S](C)(c1cc(Cl)c(Br)cc1Cl)=P([O-])([O-])[O-]
+diethyl4-nitrophenylthiophosphonate;water;CC[S](CC)=[P]([O-])([O-])c1ccc(cc1)[N+]([O-])=O;O;-6.27;CCS(CC)=P([O-])([O-])c1ccc([N+](=O)[O-])cc1
+ethyl4-cyanophenylphenylthiophosphonate;water;CC[S](c1ccc(cc1)C#N)=[P]([O-])([O-])c2ccccc2;O;-5.1;CCS(c1ccc(C#N)cc1)=P([O-])([O-])c1ccccc1
+3,4-dimethylpyridine;water;Cc1ccncc1C;O;-5.22;Cc1ccncc1C
+nitromethane;water;C[N+](=O)[O-];O;-3.95;C[N+](=O)[O-]
+3,5-dimethylpyridine;water;Cc1cc(cnc1)C;O;-4.84;Cc1cncc(C)c1
+4-ethylpyridine;water;CCc1ccncc1;O;-4.74;CCc1ccncc1
+tetramethylsilane;water;C[Si](C)(C)C;O;3.04;C[Si](C)(C)C
+waterdimer;water;O.O;O;-11.27;O.O
+methylhydrazine;water;CNN;O;-5.31;CNN
+1,1-dimethylhydrazine;water;CN(C)N;O;-4.48;CN(C)N
+urea;water;NC(N)=O;O;-13.8;NC(N)=O
+benzamide;water;c1ccc(cc1)C(=O)N;O;-10.9;NC(=O)c1ccccc1
+2-methylaniline;water;Cc1ccccc1N;O;-5.56;Cc1ccccc1N
+3-methylaniline;water;Cc1cccc(N)c1;O;-5.67;Cc1cccc(N)c1
+4-methylaniline;water;Cc1ccc(cc1)N;O;-5.55;Cc1ccc(N)cc1
+N-ethylaniline;water;CCNc1ccccc1;O;-4.62;CCNc1ccccc1
+N,N-dimethylaniline;water;CN(C)c1ccccc1;O;-3.58;CN(C)c1ccccc1
+3,aminoaniline;water;C1=CC(=CC(=C1)N)N;O;-9.92;Nc1cccc(N)c1
+1,2-ethanediamine;water;NCCN;O;-9.72;NCCN
+hydrogenperoxide;water;OO;O;-8.58;OO
+methylperoxide;water;COOC;O;-5.28;COOC
+ethylperoxide;water;CCOOCC;O;-5.32;CCOOCC
+uracil;water;O=C1NC=CC(=O)N1;O;-16.59;O=c1cc[nH]c(=O)[nH]1
+5-fluorouracil;water;c1c(c(=O)[nH]c(=O)[nH]1)F;O;-16.92;O=c1[nH]cc(F)c(=O)[nH]1
+5-trifluoromethyluracil;water;c1c(c(=O)[nH]c(=O)[nH]1)C(F)(F)F;O;-15.46;O=c1[nH]cc(C(F)(F)F)c(=O)[nH]1
+5-chlorouracil;water;c1c(c(=O)[nH]c(=O)[nH]1)Cl;O;-17.74;O=c1[nH]cc(Cl)c(=O)[nH]1
+5-bromouracil;water;c1c(c(=O)[nH]c(=O)[nH]1)Br;O;-18.17;O=c1[nH]cc(Br)c(=O)[nH]1
+1,3-diacetyloxypropan-2-ylacetate(glyceroltriacetate);water;CC(=O)OCC(COC(C)=O)OC(C)=O;O;-8.84;CC(=O)OCC(COC(C)=O)OC(C)=O
+m-bis(trifluoromethyl)benzene;water;c1cc(cc(c1)C(F)(F)F)C(F)(F)F;O;1.07;FC(F)(F)c1cccc(C(F)(F)F)c1
+N,N-dimethyl-p-methoxybenzamide;water;COc1ccc(cc1)C(=O)N(C)C;O;-11.01;COc1ccc(C(=O)N(C)C)cc1
+N,N,4-trimethylbenzamide;water;CN(C)C(=O)c1ccc(C)cc1;O;-9.76;Cc1ccc(C(=O)N(C)C)cc1
+bis(2-chloroethyl)ether;water;ClCCOCCCl;O;-4.23;ClCCOCCCl
+1,1-diacetoxyethane;water;CC(OC(C)=O)OC(C)=O;O;-4.97;CC(=O)OC(C)OC(C)=O
+1,1-diethoxyethane;water;CCOC(C)OCC;O;-3.28;CCOC(C)OCC
+diethylpropanedioate;water;CCC(CC)(C([O-])=O)C([O-])=O;O;-6.0;CCC(CC)(C(=O)[O-])C(=O)[O-]
+dimethoxymethane;water;COCOC;O;-2.93;COCOC
+ethyleneglycoldiacetate;water;CC(O)=O.CC(O)=O.OCCO;O;-6.34;CC(=O)O.CC(=O)O.OCCO
+1,2-diethoxyethane;water;CCOCCOCC;O;-3.54;CCOCCOCC
+phenylformate;water;[O-]C(=O)c1ccccc1;O;-3.82;O=C([O-])c1ccccc1
+imidazole;water;c1cnc[nH]1;O;-9.81;c1c[nH]cn1
+nitroglycol;water;[O-][N+](=O)OCCO[N+]([O-])=O;O;-5.7;O=[N+]([O-])OCCO[N+](=O)[O-]
+1,2-dinitroxypropane;water;C[C@@H](CO[N+](=O)[O-])O[N+](=O)[O-];O;-5.0;C[C@@H](CO[N+](=O)[O-])O[N+](=O)[O-]
+butylnitrate;water;CCCCO[N+]([O-])=O;O;-2.1;CCCCO[N+](=O)[O-]
+2-butylnitrate;water;CCC(C)O[N+]([O-])=O;O;-1.8;CCC(C)O[N+](=O)[O-]
+isobutylnitrate;water;CC(C)CO[N+]([O-])=O;O;-1.9;CC(C)CO[N+](=O)[O-]
+ethyleneglycolmononitrate;water;OCCO.O[N+]([O-])=O;O;-8.2;O=[N+]([O-])O.OCCO
+2-chloro-N-(2,6-diethylphenyl)-N-(methoxymethyl)acetamide(alachlor);water;CCc1cccc(c1N(COC)C(=O)CCl)CC;O;-8.2;CCc1cccc(CC)c1N(COC)C(=O)CCl
+2-methyl-2-(methylthio)propanalO-(N-methylcarbamoyl)oxime(aldicarb);water;CC(C)(/C=N\OC(=O)NC)SC;O;-9.8;CNC(=O)O/N=C\C(C)(C)SC
+2-(ethylamino)-4-isopropylamino-6-methyl-thio-s-triazine(ametryn);water;CCNc1nc(NC(C)C)nc(SC)n1;O;-7.7;CCNc1nc(NC(C)C)nc(SC)n1
+O,O-dimethylS-[(4-oxo-1,2,3-benzotriazin-3(4H)-yl)methyl]dithiophosphate(azinphosmethyl);water;CO[P](=S)(OC)SCN1N=Nc2ccccc2C1=O;O;-10.0;COP(=S)(OC)SCn1nnc2ccccc2c1=O
+N-butyl-N-ethyl-2,6-dinitro-4-(trifluoromethyl)aniline(benefin);water;CCCCN(CC)c1c(cc(cc1[N+]([O-])=O)C(F)(F)F)[N+]([O-])=O;O;-3.5;CCCCN(CC)c1c([N+](=O)[O-])cc(C(F)(F)F)cc1[N+](=O)[O-]
+a-[(4,6-dimethoxypyrimidin-2-ylcarbamoyl)sulfamoyl]-o-toluicacid(bensulfuron);water;COC1=CC(=NC(=N1)NC(=O)NS(=O)(=O)CC2=CC=CC=C2C(=O)O)OC;O;-17.2;COc1cc(OC)nc(NC(=O)NS(=O)(=O)Cc2ccccc2C(=O)O)n1
+5-Bromo-3-sec-butyl-6-methyl-uracil(bromacil);water;CC[C@H](C)n1c(=O)c(c([nH]c1=O)C)Br;O;-9.7;CC[C@H](C)n1c(=O)[nH]c(C)c(Br)c1=O
+3a,4,7,7a-tetrahydro-2-[(trichloromethyl)thio]-1H-isoindole-1,3(2H)-dione(captan);water;C1C=CC[C@@H]2[C@@H]1C(=O)N(C2=O)SC(Cl)(Cl)Cl;O;-9.0;O=C1[C@@H]2CC=CC[C@H]2C(=O)N1SC(Cl)(Cl)Cl
+1-naphthylmethylcarbamate(carbaryl);water;CNC(=O)Oc1cccc2ccccc12;O;-9.5;CNC(=O)Oc1cccc2ccccc12
+2,3-dihydro-2,2-dimethyl-7-benzofuranylmethylcarbamate(carbofuran);water;CC1(Cc2cccc(c2O1)OC(=O)NC)C;O;-9.6;CNC(=O)Oc1cccc2c1OC(C)(C)C2
+S-4-chlorophenylthiomethylO,O-diethylphosphorodithioate(carbophenothion);water;CCO[P](=S)(OCC)SCSc1ccc(Cl)cc1;O;-6.5;CCOP(=S)(OCC)SCSc1ccc(Cl)cc1
+octachloro-4,7-methanohydroindane(chlordane);water;C1[C@H]([C@@H]2[C@H]([C@H]1Cl)[C@]3(C(=C([C@@]2(C3(Cl)Cl)Cl)Cl)Cl)Cl)Cl;O;-3.4;ClC1=C(Cl)[C@]2(Cl)[C@H]3[C@@H](Cl)C[C@@H](Cl)[C@H]3[C@@]1(Cl)C2(Cl)Cl
+phosphoricacid[(E)-2-chloro-1-(2,4-dichlorophenyl)vinyl]diethylester(chlorfenvinphos);water;CCO[P](=O)(OCC)OC(=C\Cl)/c1ccc(Cl)cc1Cl;O;-7.1;CCOP(=O)(OCC)O/C(=C\Cl)c1ccc(Cl)cc1Cl
+ethyl2-(4-chloro-6-methoxypyrimidin-2-ylcarbamoylsulfamoyl)benzoate(chlorimuronethyl);water;CCOC(=O)c1ccccc1[S](=O)(=O)NC(=O)Nc2nc(Cl)cc(OC)n2;O;-14.0;CCOC(=O)c1ccccc1S(=O)(=O)NC(=O)Nc1nc(Cl)cc(OC)n1
+trichloro(nitro)methane(chloropicrin);water;[O-][N+](=O)C(Cl)(Cl)Cl;O;-1.5;O=[N+]([O-])C(Cl)(Cl)Cl
+O,O-diethylO-3,5,6-trichloro-2-pyridylphosphorothioate(chlorpyrifos);water;CCOP(=S)(OCC)Oc1c(cc(c(n1)Cl)Cl)Cl;O;-5.0;CCOP(=S)(OCC)Oc1nc(Cl)c(Cl)cc1Cl
+S-(RS)-2-chloro-1-phthalimidoethylO,O-diethylphosphorodithioate(dialifor);water;CCOP(=S)(OCC)S[C@@H](CCl)N1C(=O)c2ccccc2C1=O;O;-5.7;CCOP(=S)(OCC)S[C@@H](CCl)N1C(=O)c2ccccc2C1=O
+diethoxy-[(2-isopropyl-6-methyl-4-pyrimidinyl)oxy]-thioxophosphorane(diazinon);water;CCOP(=S)(OCC)Oc1cc(nc(n1)C(C)C)C;O;-6.5;CCOP(=S)(OCC)Oc1cc(C)nc(C(C)C)n1
+3,6-dichloro-2-methoxybenzoicacid(dicamba);water;COc1c(ccc(c1C(=O)O)Cl)Cl;O;-9.9;COc1c(Cl)ccc(Cl)c1C(=O)O
+N1,N1-diethyl-2,6-dinitro-4-trifluoromethyl-m-phenylenediamine(dinitramine);water;CCN(CC)c1c(cc(c(N)c1[N+]([O-])=O)C(F)(F)F)[N+]([O-])=O;O;-5.7;CCN(CC)c1c([N+](=O)[O-])cc(C(F)(F)F)c(N)c1[N+](=O)[O-]
+(RS)-2-sec-butyl-4,6-dinitrophenol(dinoseb);water;CCC(C)c1cc(cc(c1O)[N+]([O-])=O)[N+]([O-])=O;O;-6.2;CCC(C)c1cc([N+](=O)[O-])cc([N+](=O)[O-])c1O
+6,7,8,9,10,10-hexachloro-1,5,5a,6,9,9a-hexahydro-6,9-methano-2,4,3-benzodioxathiepine-3-oxide(endosulfanalpha);water;ClC1=C(Cl)C2(Cl)C3CO[S](=O)OCC3C1(Cl)C2(Cl)Cl;O;-4.2;O=S1OCC2C(CO1)C1(Cl)C(Cl)=C(Cl)C2(Cl)C1(Cl)Cl
+(1R,4S,4aS,5S,6S,7R,8R,8aR)-1,2,3,4,10,10-hexachloro-1,4,4a,5,6,7,8,8a-octahydro-6,7-epoxy-1,4:5,8-dimethanonaphthalene(endrin);water;C1[C@@H]2[C@H]3[C@@H]([C@H]1[C@H]4[C@@H]2O4)[C@@]5(C(=C([C@]3(C5(Cl)Cl)Cl)Cl)Cl)Cl;O;-5.5;ClC1=C(Cl)[C@]2(Cl)[C@H]3[C@H]4C[C@H]([C@@H]5O[C@@H]54)[C@H]3[C@@]1(Cl)C2(Cl)Cl
+O,O,O',O'-tetraethylS,S'-methylenebis(phosphorodithioate)(ethion);water;CCOP(=S)(OCC)SCSP(=S)(OCC)OCC;O;-6.1;CCOP(=S)(OCC)SCSP(=S)(OCC)OCC
+1,4,5,6,7,8,8-heptachloro-3a,4,7,7a-tetrahydro-4,7-methanoindene(heptachlor);water;C1=C[C@@H]([C@@H]2[C@H]1[C@@]3(C(=C([C@]2(C3(Cl)Cl)Cl)Cl)Cl)Cl)Cl;O;-2.6;ClC1=C(Cl)[C@]2(Cl)[C@@H]3[C@@H](Cl)C=C[C@@H]3[C@@]1(Cl)C2(Cl)Cl
+3,5,5-trimethyl-2-cyclohexen-1-one(isophorone);water;CC1=CC(=O)CC(C)(C)C1;O;-5.2;CC1=CC(=O)CC(C)(C)C1
+1,2,3,4,5,6-hexachlorocyclohexane(lindane);water;ClC1C(Cl)C(Cl)C(Cl)C(Cl)C1Cl;O;-5.4;ClC1C(Cl)C(Cl)C(Cl)C(Cl)C1Cl
+2-(dimethoxyphosphinothioylthio)butanedioicaciddiethylester(malathion);water;CCOC(=O)CC(S[P](=S)(OC)OC)C(=O)OCC;O;-8.2;CCOC(=O)CC(SP(=S)(OC)OC)C(=O)OCC
+N-methylcarbamicacid[1-(methylthio)ethylideneamino]ester(methomyl);water;CNC(=O)O\N=C(/C)SC;O;-10.7;CNC(=O)O/N=C(\C)SC
+methyl2-(4-methoxy-6-methyl-1,3,5-triazin-2-ylcarbamoylsulfamoyl)benzoate(metsulfuronmethyl);water;CC1=NC(=NC(=N1)OC)NC(=O)NS(=O)(=O)C2=CC=CC=C2C(=O)OC;O;-15.5;COC(=O)c1ccccc1S(=O)(=O)NC(=O)Nc1nc(C)nc(OC)n1
+4-mesyl-2,6-dinitro-N,N-dipropylaniline(nitralin);water;CCCN(CCC)c1c(cc(cc1[N+](=O)[O-])S(=O)(=O)C)[N+](=O)[O-];O;-8.0;CCCN(CCC)c1c([N+](=O)[O-])cc(S(C)(=O)=O)cc1[N+](=O)[O-]
+nitroxyacetone;water;CC(=O)CO[N+](=O)[O-];O;-6.0;CC(=O)CO[N+](=O)[O-]
+O,O-diethyl-O-4-nitro-phenylthiophosphate(parathion);water;CCO[P](=S)(OCC)Oc1ccc(cc1)[N+]([O-])=O;O;-6.7;CCOP(=S)(OCC)Oc1ccc([N+](=O)[O-])cc1
+S-propylbutyl(ethyl)thiocarbamate(pebulate);water;CCCCN(CC)C(=O)SCCC;O;-3.6;CCCCN(CC)C(=O)SCCC
+O,O-diethylS-ethylthiomethylphosphorodithioate(phorate);water;CCO[P](=S)(OCC)SCSCC;O;-4.4;CCOP(=S)(OCC)SCSCC
+N-cyclopropylmethyl-2,6-dinitro-N-propyl-4-trifluoromethylaniline(profluralin);water;CCC[N@@](CC1CC1)c2c(cc(cc2[N+](=O)[O-])C(F)(F)F)[N+](=O)[O-];O;-2.5;CCCN(CC1CC1)c1c([N+](=O)[O-])cc(C(F)(F)F)cc1[N+](=O)[O-]
+N2,N4-diisopropyl-6-methylthio-1,3,5-triazine-2,4-diamine(prometryn);water;CSc1nc(NC(C)C)nc(NC(C)C)n1;O;-8.4;CSc1nc(NC(C)C)nc(NC(C)C)n1
+N-(3,4-dichlorophenyl)propanamide(propanil);water;CCC(=O)Nc1ccc(Cl)c(Cl)c1;O;-7.8;CCC(=O)Nc1ccc(Cl)c(Cl)c1
+5-amino-4-chloro-2-phenyl-3-(2H)-pyridazinone(pyrazon);water;NC1=C(Cl)C(=O)N(N=C1)c2ccccc2;O;-16.4;Nc1cnn(-c2ccccc2)c(=O)c1Cl
+6-chloro-N,N'-diethyl-1,3,5-triazine-2,4-diamine(simazine);water;CCNc1nc(nc(n1)Cl)NCC;O;-10.2;CCNc1nc(Cl)nc(NCC)n1
+methyl2-(4,6-dimethylpyrimidin-2-ylcarbamoylsulfamoyl)benzoate(sulfometuron-methyl);water;CC1=CC(=NC(=N1)NC(=O)NS(=O)(=O)C2=CC=CC=C2C(=O)OC)C;O;-20.3;COC(=O)c1ccccc1S(=O)(=O)NC(=O)Nc1nc(C)cc(C)n1
+3-t-butyl-5-chloro-6-methyluracil(terbacil);water;Cc1c(c(=O)n(c(=O)[nH]1)C(C)(C)C)Cl;O;-11.1;Cc1[nH]c(=O)n(C(C)(C)C)c(=O)c1Cl
+N2-tert-butyl-N4-ethyl-6-methylthio-1,3,5-triazine-2,4-diamine(terbutryn);water;CCNc1nc(nc(n1)SC)NC(C)(C)C;O;-6.7;CCNc1nc(NC(C)(C)C)nc(SC)n1
+3-(4-methoxy-6-methyl-1,3,5-triazin-2-ylcarbamoylsulfamoyl)thiophene-2-carboxylicacid(thifensulfuron);water;COc1nc(C)nc(NC(=O)N[S](=O)(=O)c2ccsc2C(O)=O)n1;O;-16.2;COc1nc(C)nc(NC(=O)NS(=O)(=O)c2ccsc2C(=O)O)n1
+dimethyl(RS)-2,2,2-trichloro-1-hydroxyethylphosphonate(trichlorfon);water;CO[P](=O)(OC)C(O)C(Cl)(Cl)Cl;O;-12.7;COP(=O)(OC)C(O)C(Cl)(Cl)Cl
+a,a,a-trifluoro-2,6-dinitro-N,N-dipropyl-p-toluidine(trifluralin);water;CCCN(CCC)c1c(cc(cc1[N+](=O)[O-])C(F)(F)F)[N+](=O)[O-];O;-3.3;CCCN(CCC)c1c([N+](=O)[O-])cc(C(F)(F)F)cc1[N+](=O)[O-]
+S-propyldipropyl(thiocarbamate)(vernolate);water;CCCSC(=O)N(CCC)CCC;O;-4.1;CCCSC(=O)N(CCC)CCC
+4-amino-4'-nitroazobenzene;water;Nc1ccc(cc1)N=Nc2ccc(cc2)[N+]([O-])=O;O;-11.2;Nc1ccc(N=Nc2ccc([N+](=O)[O-])cc2)cc1
+1-amino-4-anilinoanthraquinone;water;Nc1ccc(Nc2ccccc2)c3C(=O)c4ccccc4C(=O)c13;O;-7.4;Nc1ccc(Nc2ccccc2)c2c1C(=O)c1ccccc1C2=O
+1,4,5,8-tetraminoanthraquinone;water;Nc1ccc(N)c2C(=O)c3c(N)ccc(N)c3C(=O)c12;O;-8.9;Nc1ccc(N)c2c1C(=O)c1c(N)ccc(N)c1C2=O
+1-amino-anthraquinone;water;Nc1cccc2C(=O)c3ccccc3C(=O)c12;O;-8.0;Nc1cccc2c1C(=O)c1ccccc1C2=O
+(2-dimethylamino-5,6-dimethyl-pyrimidin-4-yl)N,N-dimethylcarbamate(pirimor,pirimicarb);water;CN(C)C(=O)Oc1nc(nc(C)c1C)N(C)C;O;-9.4;Cc1nc(N(C)C)nc(OC(=O)N(C)C)c1C
+acetylsalicylicacid;water;CC(=O)Oc1ccccc1C(O)=O;O;-9.94;CC(=O)Oc1ccccc1C(=O)O
+butylparaben;water;CCCCOC(=O)c1ccc(O)cc1;O;-8.72;CCCCOC(=O)c1ccc(O)cc1
+caffeine;water;Cn1cnc2c1c(=O)n(c(=O)n2C)C;O;-12.64;Cn1c(=O)c2c(ncn2C)n(C)c1=O
+6-chlorouracil;water;c1c(=O)[nH]c(=O)[nH]c1Cl;O;-15.83;O=c1cc(Cl)[nH]c(=O)[nH]1
+cyanuricacid;water;O=C1NC(=O)NC(=O)N1;O;-18.06;O=c1[nH]c(=O)[nH]c(=O)[nH]1
+diflunisal;water;c1cc(c(cc1c2ccc(cc2F)F)C(=O)O)O;O;-9.4;O=C(O)c1cc(-c2ccc(F)cc2F)ccc1O
+ethylparaben;water;CCOC(=O)c1ccc(O)cc1;O;-9.2;CCOC(=O)c1ccc(O)cc1
+flurbiprofen(racemic);water;CC(C(O)=O)c1ccc(c(F)c1)c2ccccc2;O;-8.42;CC(C(=O)O)c1ccc(-c2ccccc2)c(F)c1
+hexachlorobenzene;water;c1(c(c(c(c(c1Cl)Cl)Cl)Cl)Cl)Cl;O;-2.33;Clc1c(Cl)c(Cl)c(Cl)c(Cl)c1Cl
+ibuprofen(racemic);water;CC(C)Cc1ccc(cc1)C(C)C(O)=O;O;-7.0;CC(C)Cc1ccc(C(C)C(=O)O)cc1
+5-iodouracil;water;c1c(c(=O)[nH]c(=O)[nH]1)I;O;-18.72;O=c1[nH]cc(I)c(=O)[nH]1
+ketoprofen(racemic);water;CC(C(O)=O)c1cccc(c1)C(=O)c2ccccc2;O;-10.78;CC(C(=O)O)c1cccc(C(=O)c2ccccc2)c1
+methylparaben;water;COC(=O)c1ccc(O)cc1;O;-9.51;COC(=O)c1ccc(O)cc1
+naproxen;water;C[C@@H](c1ccc2cc(ccc2c1)OC)C(=O)O;O;-10.21;COc1ccc2cc([C@H](C)C(=O)O)ccc2c1
+4-nitroaniline;water;c1cc(ccc1N)N(=O)=O;O;-9.45;Nc1ccc([N+](=O)[O-])cc1
+octafluorocyclobutane;water;C1(C(C(C1(F)F)(F)F)(F)F)(F)F;O;3.43;FC1(F)C(F)(F)C(F)(F)C1(F)F
+pentachloronitrobenzene;water;c1(c(c(c(c(c1Cl)Cl)Cl)Cl)Cl)N(=O)=O;O;-5.22;O=[N+]([O-])c1c(Cl)c(Cl)c(Cl)c(Cl)c1Cl
+phthalimide;water;c1ccc2c(c1)C(=O)NC2=O;O;-9.61;O=C1NC(=O)c2ccccc21
+propylparaben;water;CCCOC(=O)c1ccc(O)cc1;O;-9.37;CCCOC(=O)c1ccc(O)cc1
+sulfolane;water;C1CC[S+2](C1)([O-])[O-];O;-8.61;[O-][S+2]1([O-])CCCC1
+trimethylorthotrifluoroacetate;water;CN(C(=O)C(F)(F)F)[Si](C)(C)C;O;-0.8;CN(C(=O)C(F)(F)F)[Si](C)(C)C
+paracetamol;water;CC(=O)Nc1ccc(O)cc1;O;-14.83;CC(=O)Nc1ccc(O)cc1
+N-(3-hydroxyphenyl)acetamide;water;CC(=O)Nc1cccc(O)c1;O;-13.93;CC(=O)Nc1cccc(O)c1
+fenbufen;water;OC(=O)CCC(=O)c1ccc(cc1)c2ccccc2;O;-12.75;O=C(O)CCC(=O)c1ccc(-c2ccccc2)cc1
+N-(2-hydroxyphenyl)acetamide;water;CC(=O)Nc1ccccc1O;O;-11.61;CC(=O)Nc1ccccc1O
+phenacetin;water;CCOc1ccc(NC(C)=O)cc1;O;-10.91;CCOc1ccc(NC(C)=O)cc1
+2-methoxybenzoicacid;water;COc1ccccc1C(O)=O;O;-10.32;COc1ccccc1C(=O)O
+4-methoxybenzoicacid;water;COc1ccc(cc1)C(O)=O;O;-9.15;COc1ccc(C(=O)O)cc1
+3-methoxybenzoicacid;water;COc1cccc(c1)C(O)=O;O;-8.93;COc1cccc(C(=O)O)c1
+tolfenamicacid;water;CC1=C(C=CC=C1Cl)NC2=CC=CC=C2C(=O)O;O;-6.71;Cc1c(Cl)cccc1Nc1ccccc1C(=O)O
+diclofenacacid;water;OC(=O)Cc1ccccc1Nc2c(Cl)cccc2Cl;O;-6.3;O=C(O)Cc1ccccc1Nc1c(Cl)cccc1Cl
+flufenamicacid;water;OC(=O)c1ccccc1Nc2cccc(c2)C(F)(F)F;O;-5.68;O=C(O)c1ccccc1Nc1cccc(C(F)(F)F)c1
+iodobenzene;water;c1ccc(cc1)I;O;-1.73;Ic1ccccc1
+diiodomethane;water;C(I)I;O;-2.49;ICI
+iodomethane;water;CI;O;-0.89;CI
+iodoethane;water;CCI;O;-0.72;CCI
+1-iodopropane;water;CCCI;O;-0.59;CCCI
+1-iodobutane;water;CCCCI;O;-0.25;CCCCI
+1-iodopentane;water;CCCCCI;O;-0.12;CCCCCI
+2-iodopropane;water;CC(C)I;O;-0.46;CC(C)I
