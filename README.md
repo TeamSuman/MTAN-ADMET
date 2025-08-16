@@ -27,7 +27,7 @@ Please refer to the paper for model details and methodology.
 
 ### 1. Clone the repository  
 ```bash
-git clone https://github.com/<your-username>/MTAN-ADMET.git
+git clone https://github.com/TeamSuman/MTAN-ADMET.git
 cd MTAN-ADMET
 ````
 
