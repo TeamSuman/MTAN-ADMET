@@ -54,7 +54,12 @@ conda activate mtan-admet
 ## 🚀 Usage
 
 ### Step 1: Download the default model
-A pretrained model as described in ref. 1 is available on Google Drive. Download and unzip by execuiting the bash script "download_default_model.sh":
+
+The embeddings are generated using the pretrained sequence-to-sequence autoencoder by Winter et al.
+
+> Winter, R.; Montanari, F.; Noé, F.; Clevert, D.-A. **Learning continuous and data-driven molecular descriptors by translating equivalent chemical representations.** *Chemical Science* 2019, 10, 1692–1701.
+
+The pretrained model is available on Google Drive. Download and unzip by execuiting the bash script "download_default_model.sh":
 
 ```bash
 cd scripts/cddd
@@ -64,10 +69,6 @@ The default_model.zip file can also be downloaded manualy under https://drive.go
 
 
 ### Step 2: Generate molecular embeddings
-
-The embeddings are generated using the pretrained sequence-to-sequence autoencoder by Winter et al.
-
-> Winter, R.; Montanari, F.; Noé, F.; Clevert, D.-A. **Learning continuous and data-driven molecular descriptors by translating equivalent chemical representations.** *Chemical Science* 2019, 10, 1692–1701.
 
 Activate the **cddd** environment and run:
 
