@@ -27,7 +27,7 @@ Please refer to the paper for model details and methodology.
 
 ### 1. Clone the repository  
 ```bash
-git clone https://github.com/<your-username>/MTAN-ADMET.git
+git clone https://github.com/TeamSuman/MTAN-ADMET.git
 cd MTAN-ADMET
 ````
 
@@ -46,18 +46,29 @@ conda activate cddd
 
 # Create mtan-admet environment
 conda env create -f mtan_admet.yml
-conda activate mtan-admet
+conda activate mtan_admet
 ```
 
 ---
 
 ## 🚀 Usage
 
-### Step 1: Generate molecular embeddings
+### Step 1: Download the default model
 
 The embeddings are generated using the pretrained sequence-to-sequence autoencoder by Winter et al.
 
 > Winter, R.; Montanari, F.; Noé, F.; Clevert, D.-A. **Learning continuous and data-driven molecular descriptors by translating equivalent chemical representations.** *Chemical Science* 2019, 10, 1692–1701.
+
+The pretrained model is available on Google Drive. Download and unzip by execuiting the bash script "download_default_model.sh":
+
+```bash
+cd scripts/cddd
+./download_default_model.sh
+```
+The default_model.zip file can also be downloaded manualy under https://drive.google.com/open?id=1oyknOulq_j0w9kzOKKIHdTLo5HphT99h
+
+
+### Step 2: Generate molecular embeddings
 
 Activate the **cddd** environment and run:
 
@@ -73,7 +84,7 @@ This produces:
 
 ---
 
-### Step 2: Train the MTAN-ADMET model
+### Step 3: Train the MTAN-ADMET model
 
 Activate the **mtan-admet** environment and run:
 
@@ -88,7 +99,7 @@ jupyter notebook notebooks/test/mtan_admet_run.ipynb
 
 ---
 
-### Step 3: Baseline comparison
+### Step 4: Baseline comparison
 
 To compare MTAN-ADMET against other models:
 
@@ -98,7 +109,7 @@ jupyter notebook notebooks/test/baseline_analysis.ipynb
 
 ---
 
-### Step 4: Dataset analysis
+### Step 5: Dataset analysis
 
 To analyze the ADMET dataset (collected from Du et al.):
 
