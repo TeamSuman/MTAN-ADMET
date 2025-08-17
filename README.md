@@ -46,7 +46,7 @@ conda activate cddd
 
 # Create mtan-admet environment
 conda env create -f mtan_admet.yml
-conda activate mtan-admet
+conda activate mtan_admet
 ```
 
 ---
