@@ -89,7 +89,7 @@ This produces:
 Activate the **mtan-admet** environment and run:
 
 ```bash
-conda activate mtan-admet
+conda activate mtan_admet
 jupyter notebook notebooks/test/mtan_admet_run.ipynb
 ```
 
